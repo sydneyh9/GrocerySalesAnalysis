@@ -1,0 +1,1554 @@
+store_name,product_name,month,total_quantity,total_sales
+City Fresh Store,Apples,2024-04,1.0,13.13
+City Fresh Store,Apples,2024-06,5.0,71.18
+City Fresh Store,Apples,2024-08,4.0,33.62
+City Fresh Store,Apples,2024-10,4.0,4.25
+City Fresh Store,Apples,2025-01,1.0,5.66
+City Fresh Store,Apples,2025-03,13.0,161.78
+City Fresh Store,Apples,2025-04,4.0,3.23
+City Fresh Store,Bananas,2023-09,1.0,17.98
+City Fresh Store,Bananas,2024-04,1.0,5.23
+City Fresh Store,Bananas,2024-07,3.0,16.92
+City Fresh Store,Bananas,2024-10,4.0,17.44
+City Fresh Store,Bananas,2024-12,5.0,122.27
+City Fresh Store,Bananas,2025-02,2.0,41.78
+City Fresh Store,Bananas,2025-06,4.0,45.56
+City Fresh Store,Bananas,2025-07,1.0,11.9
+City Fresh Store,Bread,2023-08,6.0,138.74
+City Fresh Store,Bread,2023-09,3.0,47.51
+City Fresh Store,Bread,2023-10,1.0,4.29
+City Fresh Store,Bread,2023-12,3.0,61.25
+City Fresh Store,Bread,2024-05,4.0,8.5
+City Fresh Store,Bread,2024-08,6.0,145.18
+City Fresh Store,Bread,2024-09,4.0,76.58
+City Fresh Store,Bread,2024-10,16.0,256.00000000000000
+City Fresh Store,Bread,2025-01,4.0,106.46
+City Fresh Store,Bread,2025-02,3.0,2.47
+City Fresh Store,Bread,2025-06,3.0,18.98
+City Fresh Store,Bread,2025-08,3.0,54.98
+City Fresh Store,Carrots,2023-08,1.0,28.26
+City Fresh Store,Carrots,2023-09,3.0,45.2
+City Fresh Store,Carrots,2024-04,2.0,53.14
+City Fresh Store,Carrots,2024-05,5.0,94.8
+City Fresh Store,Carrots,2024-07,1.0,21.86
+City Fresh Store,Carrots,2024-08,1.0,13.31
+City Fresh Store,Carrots,2025-01,1.0,12.5
+City Fresh Store,Carrots,2025-04,4.0,30.64
+City Fresh Store,Carrots,2025-07,3.0,39.34
+City Fresh Store,Cereal,2023-08,3.0,55.0
+City Fresh Store,Cereal,2023-09,2.0,28.69
+City Fresh Store,Cereal,2023-10,9.0,158.42000000000000
+City Fresh Store,Cereal,2024-02,8.0,111.76000000000000
+City Fresh Store,Cereal,2024-06,3.0,33.12
+City Fresh Store,Cereal,2024-07,1.0,5.44
+City Fresh Store,Cereal,2024-08,4.0,30.16
+City Fresh Store,Cereal,2024-12,5.0,142.76
+City Fresh Store,Cereal,2025-01,4.0,84.93
+City Fresh Store,Cereal,2025-02,2.0,15.02
+City Fresh Store,Cereal,2025-03,8.0,135.38
+City Fresh Store,Cereal,2025-04,5.0,130.36
+City Fresh Store,Cereal,2025-05,5.0,97.28
+City Fresh Store,Cheese,2023-10,5.0,63.160000000000000
+City Fresh Store,Cheese,2023-11,3.0,21.55
+City Fresh Store,Cheese,2023-12,5.0,5.21
+City Fresh Store,Cheese,2024-10,4.0,63.480000000000000
+City Fresh Store,Cheese,2025-01,1.0,25.84
+City Fresh Store,Cheese,2025-05,3.0,58.26
+City Fresh Store,Cheese,2025-06,4.0,63.2
+City Fresh Store,Chicken Breast,2023-09,1.0,4.1
+City Fresh Store,Chicken Breast,2023-10,2.0,47.21
+City Fresh Store,Chicken Breast,2023-12,7.0,129.55
+City Fresh Store,Chicken Breast,2024-04,5.0,132.8
+City Fresh Store,Chicken Breast,2024-05,1.0,6.1
+City Fresh Store,Chicken Breast,2024-08,3.0,31.62
+City Fresh Store,Chicken Breast,2024-09,1.0,26.32
+City Fresh Store,Chicken Breast,2024-11,2.0,19.58
+City Fresh Store,Chicken Breast,2025-01,4.0,81.36
+City Fresh Store,Chicken Breast,2025-02,1.0,29.21
+City Fresh Store,Chicken Breast,2025-03,1.0,7.33
+City Fresh Store,Chicken Breast,2025-05,2.0,9.05
+City Fresh Store,Chicken Breast,2025-07,2.0,23.63
+City Fresh Store,Eggs,2023-09,4.0,24.04
+City Fresh Store,Eggs,2023-10,4.0,97.34
+City Fresh Store,Eggs,2023-12,1.0,14.06
+City Fresh Store,Eggs,2024-03,2.0,44.25
+City Fresh Store,Eggs,2024-09,3.0,26.43
+City Fresh Store,Eggs,2024-12,5.0,61.06
+City Fresh Store,Eggs,2025-01,4.0,87.79
+City Fresh Store,Eggs,2025-04,3.0,63.02
+City Fresh Store,Eggs,2025-07,5.0,17.21
+City Fresh Store,Ground Beef,2023-09,5.0,107.24
+City Fresh Store,Ground Beef,2023-10,1.0,16.22
+City Fresh Store,Ground Beef,2024-03,7.0,21.21
+City Fresh Store,Ground Beef,2024-08,4.0,41.03
+City Fresh Store,Ground Beef,2024-10,7.0,51.47
+City Fresh Store,Ground Beef,2024-11,2.0,40.97
+City Fresh Store,Ground Beef,2025-04,5.0,101.92
+City Fresh Store,Ground Beef,2025-06,6.0,71.77
+City Fresh Store,Ground Beef,2025-07,2.0,8.4
+City Fresh Store,Milk,2023-09,3.0,9.41
+City Fresh Store,Milk,2023-10,5.0,11.88
+City Fresh Store,Milk,2023-12,3.0,26.82
+City Fresh Store,Milk,2024-01,2.0,21.98
+City Fresh Store,Milk,2024-02,10.0,207.56
+City Fresh Store,Milk,2024-06,1.0,26.68
+City Fresh Store,Milk,2024-08,5.0,43.5
+City Fresh Store,Milk,2025-03,3.0,11.94
+City Fresh Store,Milk,2025-04,5.0,88.83
+City Fresh Store,Milk,2025-06,2.0,25.04
+City Fresh Store,Milk,2025-07,5.0,103.1
+City Fresh Store,Onions,2023-11,5.0,119.76
+City Fresh Store,Onions,2023-12,1.0,19.32
+City Fresh Store,Onions,2024-03,4.0,43.75
+City Fresh Store,Onions,2024-05,1.0,22.35
+City Fresh Store,Onions,2024-06,5.0,124.69
+City Fresh Store,Onions,2024-09,2.0,6.43
+City Fresh Store,Onions,2025-01,3.0,42.55
+City Fresh Store,Onions,2025-02,6.0,51.78
+City Fresh Store,Onions,2025-03,2.0,36.03
+City Fresh Store,Onions,2025-04,1.0,13.25
+City Fresh Store,Onions,2025-05,4.0,92.67
+City Fresh Store,Onions,2025-06,2.0,5.08
+City Fresh Store,Orange Juice,2023-09,3.0,30.43
+City Fresh Store,Orange Juice,2023-10,5.0,42.83
+City Fresh Store,Orange Juice,2023-11,4.0,82.42
+City Fresh Store,Orange Juice,2024-02,2.0,23.46
+City Fresh Store,Orange Juice,2024-03,5.0,147.91
+City Fresh Store,Orange Juice,2024-04,2.0,37.04
+City Fresh Store,Orange Juice,2024-10,3.0,12.57
+City Fresh Store,Orange Juice,2024-12,6.0,115.40000000000000
+City Fresh Store,Orange Juice,2025-02,5.0,67.61
+City Fresh Store,Orange Juice,2025-03,1.0,13.54
+City Fresh Store,Orange Juice,2025-07,5.0,116.86000000000000
+City Fresh Store,Pasta,2023-12,4.0,22.32
+City Fresh Store,Pasta,2024-01,3.0,51.44
+City Fresh Store,Pasta,2024-04,5.0,43.67
+City Fresh Store,Pasta,2024-12,2.0,40.43
+City Fresh Store,Pasta,2025-02,8.0,187.86
+City Fresh Store,Pasta,2025-03,10.0,135.99
+City Fresh Store,Pasta,2025-04,2.0,37.73
+City Fresh Store,Pasta,2025-05,2.0,17.03
+City Fresh Store,Pasta,2025-07,3.0,25.78
+City Fresh Store,Potatoes,2023-09,11.0,217.78
+City Fresh Store,Potatoes,2023-12,5.0,85.21
+City Fresh Store,Potatoes,2024-03,7.0,52.4
+City Fresh Store,Potatoes,2024-07,1.0,0.11
+City Fresh Store,Potatoes,2024-09,5.0,120.72
+City Fresh Store,Potatoes,2024-11,5.0,39.9
+City Fresh Store,Potatoes,2024-12,2.0,39.06
+City Fresh Store,Potatoes,2025-05,4.0,72.64
+City Fresh Store,Potatoes,2025-06,1.0,4.37
+City Fresh Store,Rice,2023-08,4.0,27.14
+City Fresh Store,Rice,2023-10,6.0,83.210000000000000
+City Fresh Store,Rice,2023-11,5.0,103.61
+City Fresh Store,Rice,2023-12,5.0,76.55
+City Fresh Store,Rice,2024-01,4.0,103.75
+City Fresh Store,Rice,2024-02,2.0,36.1
+City Fresh Store,Rice,2024-05,8.0,130.79
+City Fresh Store,Rice,2024-08,4.0,57.77
+City Fresh Store,Rice,2025-02,4.0,23.28
+City Fresh Store,Rice,2025-05,4.0,18.82
+City Fresh Store,Rice,2025-06,3.0,19.58
+City Fresh Store,Rice,2025-07,2.0,3.0
+City Fresh Store,Salmon,2023-08,1.0,5.86
+City Fresh Store,Salmon,2023-10,5.0,10.6
+City Fresh Store,Salmon,2024-01,1.0,17.08
+City Fresh Store,Salmon,2024-03,5.0,20.060000000000000
+City Fresh Store,Salmon,2024-05,8.0,114.24000000000000
+City Fresh Store,Salmon,2024-06,2.0,17.34
+City Fresh Store,Salmon,2024-07,6.0,100.71
+City Fresh Store,Salmon,2024-08,5.0,54.94
+City Fresh Store,Salmon,2024-10,3.0,59.59
+City Fresh Store,Salmon,2024-12,2.0,28.89
+City Fresh Store,Salmon,2025-02,4.0,21.64
+City Fresh Store,Salmon,2025-03,6.0,114.28
+City Fresh Store,Salmon,2025-05,5.0,37.81
+City Fresh Store,Tomatoes,2023-11,5.0,48.510000000000000
+City Fresh Store,Tomatoes,2024-01,3.0,62.61
+City Fresh Store,Tomatoes,2024-09,1.0,26.11
+City Fresh Store,Tomatoes,2024-12,4.0,10.44
+City Fresh Store,Tomatoes,2025-05,1.0,26.02
+City Fresh Store,Tomatoes,2025-06,4.0,99.89
+City Fresh Store,Tomatoes,2025-07,1.0,20.51
+City Fresh Store,Yogurt,2023-08,8.0,186.09
+City Fresh Store,Yogurt,2023-10,2.0,19.02
+City Fresh Store,Yogurt,2023-11,3.0,66.91
+City Fresh Store,Yogurt,2024-01,4.0,14.72
+City Fresh Store,Yogurt,2024-02,5.0,73.55
+City Fresh Store,Yogurt,2024-09,1.0,3.42
+City Fresh Store,Yogurt,2024-10,5.0,60.09
+City Fresh Store,Yogurt,2025-02,9.0,68.240000000000000
+City Fresh Store,Yogurt,2025-03,2.0,1.72
+City Fresh Store,Yogurt,2025-05,5.0,44.69
+City Fresh Store,Yogurt,2025-06,5.0,26.38
+Corner Grocery,Apples,2023-12,1.0,16.88
+Corner Grocery,Apples,2024-01,3.0,75.85
+Corner Grocery,Apples,2024-04,2.0,14.59
+Corner Grocery,Apples,2024-07,12.0,222.96
+Corner Grocery,Apples,2025-03,4.0,21.44
+Corner Grocery,Apples,2025-04,8.0,147.72
+Corner Grocery,Bananas,2023-09,1.0,10.13
+Corner Grocery,Bananas,2023-10,4.0,38.88
+Corner Grocery,Bananas,2024-05,5.0,4.78
+Corner Grocery,Bananas,2024-06,3.0,46.25
+Corner Grocery,Bananas,2024-07,4.0,83.09
+Corner Grocery,Bananas,2024-08,6.0,79.63
+Corner Grocery,Bananas,2024-09,5.0,22.75
+Corner Grocery,Bananas,2024-11,5.0,69.5
+Corner Grocery,Bananas,2024-12,9.0,191.56
+Corner Grocery,Bananas,2025-01,8.0,109.52000000000000
+Corner Grocery,Bananas,2025-02,5.0,39.41
+Corner Grocery,Bananas,2025-03,5.0,125.3
+Corner Grocery,Bananas,2025-04,5.0,74.85
+Corner Grocery,Bananas,2025-06,3.0,56.9
+Corner Grocery,Bananas,2025-08,2.0,2.7
+Corner Grocery,Bread,2023-08,5.0,34.43
+Corner Grocery,Bread,2023-11,4.0,5.27
+Corner Grocery,Bread,2024-01,3.0,65.56
+Corner Grocery,Bread,2024-03,2.0,52.54
+Corner Grocery,Bread,2024-10,1.0,8.6
+Corner Grocery,Bread,2024-11,2.0,27.6
+Corner Grocery,Bread,2024-12,1.0,5.43
+Corner Grocery,Bread,2025-02,5.0,48.450000000000000
+Corner Grocery,Bread,2025-03,5.0,76.96
+Corner Grocery,Carrots,2024-03,2.0,9.06
+Corner Grocery,Carrots,2024-06,8.0,77.31
+Corner Grocery,Carrots,2024-07,3.0,81.21
+Corner Grocery,Carrots,2024-10,2.0,40.14
+Corner Grocery,Carrots,2025-03,4.0,33.79
+Corner Grocery,Cereal,2023-10,2.0,45.21
+Corner Grocery,Cereal,2023-11,3.0,48.18
+Corner Grocery,Cereal,2023-12,5.0,41.2
+Corner Grocery,Cereal,2024-02,4.0,41.06
+Corner Grocery,Cereal,2024-06,5.0,50.45
+Corner Grocery,Cereal,2024-07,3.0,40.74
+Corner Grocery,Cereal,2024-08,5.0,21.38
+Corner Grocery,Cereal,2024-09,1.0,-0.56
+Corner Grocery,Cereal,2024-11,7.0,131.33
+Corner Grocery,Cereal,2025-01,2.0,37.25
+Corner Grocery,Cereal,2025-08,1.0,6.26
+Corner Grocery,Cheese,2023-08,10.0,202.58000000000000
+Corner Grocery,Cheese,2023-11,2.0,12.1
+Corner Grocery,Cheese,2024-04,5.0,114.27
+Corner Grocery,Cheese,2024-05,5.0,8.5
+Corner Grocery,Cheese,2024-06,7.0,110.11
+Corner Grocery,Cheese,2024-10,5.0,100.02
+Corner Grocery,Cheese,2024-12,4.0,29.66
+Corner Grocery,Cheese,2025-04,7.0,113.68
+Corner Grocery,Cheese,2025-05,3.0,60.92
+Corner Grocery,Cheese,2025-07,3.0,10.39
+Corner Grocery,Chicken Breast,2023-09,4.0,68.51
+Corner Grocery,Chicken Breast,2023-10,1.0,24.21
+Corner Grocery,Chicken Breast,2023-11,9.0,203.02
+Corner Grocery,Chicken Breast,2023-12,10.0,137.53
+Corner Grocery,Chicken Breast,2024-01,2.0,4.49
+Corner Grocery,Chicken Breast,2024-02,2.0,26.02
+Corner Grocery,Chicken Breast,2024-03,3.0,36.12
+Corner Grocery,Chicken Breast,2024-05,5.0,33.9
+Corner Grocery,Chicken Breast,2024-06,1.0,20.38
+Corner Grocery,Chicken Breast,2024-09,9.0,125.37
+Corner Grocery,Chicken Breast,2025-03,2.0,4.88
+Corner Grocery,Chicken Breast,2025-04,1.0,15.49
+Corner Grocery,Chicken Breast,2025-07,5.0,125.12
+Corner Grocery,Eggs,2023-09,1.0,9.32
+Corner Grocery,Eggs,2023-10,2.0,14.64
+Corner Grocery,Eggs,2023-12,2.0,33.03
+Corner Grocery,Eggs,2024-05,4.0,37.12
+Corner Grocery,Eggs,2024-08,1.0,24.19
+Corner Grocery,Eggs,2024-10,8.0,67.94
+Corner Grocery,Eggs,2024-11,5.0,18.72
+Corner Grocery,Eggs,2024-12,6.0,40.91
+Corner Grocery,Eggs,2025-01,5.0,61.28
+Corner Grocery,Ground Beef,2023-11,5.0,125.5
+Corner Grocery,Ground Beef,2024-02,4.0,95.9
+Corner Grocery,Ground Beef,2024-03,3.0,52.43
+Corner Grocery,Ground Beef,2024-04,1.0,8.93
+Corner Grocery,Ground Beef,2024-10,3.0,87.42
+Corner Grocery,Ground Beef,2025-01,5.0,83.36
+Corner Grocery,Ground Beef,2025-07,2.0,35.81
+Corner Grocery,Milk,2023-08,4.0,9.28
+Corner Grocery,Milk,2023-09,1.0,14.19
+Corner Grocery,Milk,2023-10,4.0,43.3
+Corner Grocery,Milk,2023-11,5.0,132.11
+Corner Grocery,Milk,2023-12,5.0,31.72
+Corner Grocery,Milk,2024-05,9.0,123.4
+Corner Grocery,Milk,2024-06,3.0,35.7
+Corner Grocery,Milk,2024-09,4.0,65.17
+Corner Grocery,Milk,2025-04,3.0,76.1
+Corner Grocery,Milk,2025-05,1.0,6.59
+Corner Grocery,Milk,2025-07,5.0,56.72
+Corner Grocery,Onions,2023-08,3.0,73.35
+Corner Grocery,Onions,2023-09,3.0,22.59
+Corner Grocery,Onions,2023-12,2.0,29.46
+Corner Grocery,Onions,2024-01,5.0,84.8
+Corner Grocery,Onions,2024-02,3.0,36.36
+Corner Grocery,Onions,2024-04,3.0,61.42
+Corner Grocery,Onions,2024-05,4.0,54.32
+Corner Grocery,Onions,2024-08,3.0,23.71
+Corner Grocery,Onions,2024-09,5.0,143.26
+Corner Grocery,Onions,2024-10,5.0,114.88
+Corner Grocery,Onions,2024-11,5.0,117.12
+Corner Grocery,Onions,2025-02,2.0,10.67
+Corner Grocery,Onions,2025-04,2.0,32.32
+Corner Grocery,Onions,2025-06,6.0,9.56
+Corner Grocery,Orange Juice,2023-08,2.0,45.0
+Corner Grocery,Orange Juice,2023-09,3.0,43.01
+Corner Grocery,Orange Juice,2024-02,1.0,9.78
+Corner Grocery,Orange Juice,2024-03,1.0,6.39
+Corner Grocery,Orange Juice,2024-05,1.0,3.28
+Corner Grocery,Orange Juice,2024-07,3.0,59.69
+Corner Grocery,Orange Juice,2024-10,7.0,132.85
+Corner Grocery,Orange Juice,2024-11,4.0,68.35
+Corner Grocery,Orange Juice,2025-01,4.0,39.78
+Corner Grocery,Pasta,2023-09,2.0,6.14
+Corner Grocery,Pasta,2023-11,4.0,75.02
+Corner Grocery,Pasta,2023-12,7.0,104.10000000000000
+Corner Grocery,Pasta,2024-02,2.0,34.13
+Corner Grocery,Pasta,2024-03,2.0,42.78
+Corner Grocery,Pasta,2024-07,5.0,77.5
+Corner Grocery,Pasta,2024-09,1.0,2.06
+Corner Grocery,Pasta,2025-01,4.0,111.39
+Corner Grocery,Pasta,2025-05,4.0,51.730000000000000
+Corner Grocery,Pasta,2025-06,2.0,8.87
+Corner Grocery,Potatoes,2023-09,1.0,5.07
+Corner Grocery,Potatoes,2024-01,5.0,116.25
+Corner Grocery,Potatoes,2024-02,3.0,24.06
+Corner Grocery,Potatoes,2024-04,4.0,119.56
+Corner Grocery,Potatoes,2024-07,2.0,35.62
+Corner Grocery,Potatoes,2025-01,5.0,92.98
+Corner Grocery,Potatoes,2025-03,4.0,71.52
+Corner Grocery,Potatoes,2025-04,1.0,9.23
+Corner Grocery,Rice,2024-02,1.0,6.49
+Corner Grocery,Rice,2024-06,5.0,94.97
+Corner Grocery,Rice,2024-07,14.0,100.77000000000000
+Corner Grocery,Rice,2024-11,5.0,120.31
+Corner Grocery,Rice,2025-01,5.0,12.07
+Corner Grocery,Rice,2025-04,3.0,33.97
+Corner Grocery,Rice,2025-05,4.0,93.52
+Corner Grocery,Salmon,2023-10,5.0,56.5
+Corner Grocery,Salmon,2023-12,5.0,36.4
+Corner Grocery,Salmon,2024-01,3.0,59.88
+Corner Grocery,Salmon,2024-05,4.0,107.12
+Corner Grocery,Salmon,2024-06,1.0,9.31
+Corner Grocery,Salmon,2024-07,5.0,56.2
+Corner Grocery,Salmon,2024-12,1.0,17.43
+Corner Grocery,Salmon,2025-02,3.0,18.36
+Corner Grocery,Salmon,2025-03,7.0,48.15
+Corner Grocery,Salmon,2025-04,2.0,44.47
+Corner Grocery,Salmon,2025-05,4.0,81.02
+Corner Grocery,Salmon,2025-06,3.0,29.04
+Corner Grocery,Tomatoes,2023-10,3.0,11.45
+Corner Grocery,Tomatoes,2023-11,2.0,33.35
+Corner Grocery,Tomatoes,2024-03,3.0,44.13
+Corner Grocery,Tomatoes,2024-04,3.0,3.42
+Corner Grocery,Tomatoes,2024-05,1.0,4.28
+Corner Grocery,Tomatoes,2024-06,3.0,32.75
+Corner Grocery,Tomatoes,2024-07,3.0,18.03
+Corner Grocery,Tomatoes,2024-08,4.0,39.66
+Corner Grocery,Tomatoes,2024-09,1.0,12.11
+Corner Grocery,Tomatoes,2024-10,1.0,13.07
+Corner Grocery,Tomatoes,2024-11,3.0,46.86
+Corner Grocery,Tomatoes,2025-01,4.0,13.28
+Corner Grocery,Tomatoes,2025-04,3.0,53.58
+Corner Grocery,Tomatoes,2025-05,2.0,1.68
+Corner Grocery,Tomatoes,2025-06,1.0,24.65
+Corner Grocery,Tomatoes,2025-08,1.0,13.37
+Corner Grocery,Yogurt,2024-03,2.0,21.56
+Corner Grocery,Yogurt,2024-11,2.0,16.97
+Corner Grocery,Yogurt,2025-01,5.0,89.44
+Corner Grocery,Yogurt,2025-03,4.0,35.6
+Corner Grocery,Yogurt,2025-05,4.0,58.73
+FamilyFood Express,Apples,2023-12,1.0,18.49
+FamilyFood Express,Apples,2024-04,1.0,12.38
+FamilyFood Express,Apples,2024-05,3.0,30.66
+FamilyFood Express,Apples,2024-06,2.0,37.64
+FamilyFood Express,Apples,2024-10,8.0,52.07
+FamilyFood Express,Apples,2024-12,5.0,4.48
+FamilyFood Express,Apples,2025-01,4.0,6.16
+FamilyFood Express,Apples,2025-03,4.0,81.5
+FamilyFood Express,Apples,2025-05,1.0,9.66
+FamilyFood Express,Apples,2025-06,3.0,7.61
+FamilyFood Express,Bananas,2024-01,1.0,23.57
+FamilyFood Express,Bananas,2025-04,8.0,83.83
+FamilyFood Express,Bananas,2025-06,3.0,32.38
+FamilyFood Express,Bread,2023-10,5.0,18.65
+FamilyFood Express,Bread,2023-12,4.0,104.7
+FamilyFood Express,Bread,2024-02,3.0,35.86
+FamilyFood Express,Bread,2024-03,4.0,67.48
+FamilyFood Express,Bread,2024-04,1.0,0.82
+FamilyFood Express,Bread,2024-05,3.0,17.62
+FamilyFood Express,Bread,2024-07,9.0,130.23
+FamilyFood Express,Bread,2024-08,1.0,17.43
+FamilyFood Express,Bread,2024-11,1.0,2.4
+FamilyFood Express,Bread,2024-12,3.0,69.18
+FamilyFood Express,Bread,2025-01,5.0,108.6
+FamilyFood Express,Bread,2025-03,8.0,37.95
+FamilyFood Express,Bread,2025-05,5.0,30.080000000000000
+FamilyFood Express,Bread,2025-07,4.0,65.01
+FamilyFood Express,Carrots,2023-08,5.0,92.42
+FamilyFood Express,Carrots,2023-10,4.0,15.8
+FamilyFood Express,Carrots,2024-02,3.0,5.89
+FamilyFood Express,Carrots,2024-03,5.0,80.23
+FamilyFood Express,Carrots,2024-05,5.0,58.53
+FamilyFood Express,Carrots,2024-09,1.0,15.35
+FamilyFood Express,Carrots,2024-10,5.0,94.84
+FamilyFood Express,Carrots,2024-11,5.0,58.28
+FamilyFood Express,Carrots,2025-03,9.0,33.260000000000000
+FamilyFood Express,Carrots,2025-04,4.0,85.75
+FamilyFood Express,Cereal,2023-09,4.0,37.77
+FamilyFood Express,Cereal,2023-11,1.0,19.37
+FamilyFood Express,Cereal,2024-01,3.0,47.33
+FamilyFood Express,Cereal,2024-03,3.0,72.09
+FamilyFood Express,Cereal,2024-06,3.0,16.64
+FamilyFood Express,Cereal,2024-07,4.0,9.28
+FamilyFood Express,Cereal,2024-09,1.0,6.65
+FamilyFood Express,Cereal,2024-10,3.0,30.68
+FamilyFood Express,Cereal,2024-11,4.0,40.22
+FamilyFood Express,Cereal,2025-01,6.0,109.58
+FamilyFood Express,Cereal,2025-07,4.0,59.56
+FamilyFood Express,Cheese,2024-04,3.0,41.49
+FamilyFood Express,Cheese,2024-06,4.0,48.6
+FamilyFood Express,Cheese,2024-07,8.0,142.02
+FamilyFood Express,Cheese,2024-10,4.0,58.14
+FamilyFood Express,Cheese,2024-11,4.0,24.05
+FamilyFood Express,Cheese,2024-12,2.0,29.46
+FamilyFood Express,Cheese,2025-02,4.0,5.68
+FamilyFood Express,Cheese,2025-03,9.0,91.36
+FamilyFood Express,Cheese,2025-07,3.0,16.88
+FamilyFood Express,Chicken Breast,2023-11,1.0,9.72
+FamilyFood Express,Chicken Breast,2024-03,2.0,20.080000000000000
+FamilyFood Express,Chicken Breast,2024-04,3.0,62.58
+FamilyFood Express,Chicken Breast,2024-05,1.0,26.67
+FamilyFood Express,Chicken Breast,2024-06,1.0,3.15
+FamilyFood Express,Chicken Breast,2024-07,9.0,75.86
+FamilyFood Express,Chicken Breast,2024-08,1.0,19.79
+FamilyFood Express,Chicken Breast,2025-01,4.0,42.28
+FamilyFood Express,Chicken Breast,2025-02,2.0,2.46
+FamilyFood Express,Chicken Breast,2025-04,3.0,58.83
+FamilyFood Express,Eggs,2023-08,5.0,99.12
+FamilyFood Express,Eggs,2023-09,5.0,64.61
+FamilyFood Express,Eggs,2023-11,5.0,39.08
+FamilyFood Express,Eggs,2023-12,1.0,10.62
+FamilyFood Express,Eggs,2024-01,3.0,3.54
+FamilyFood Express,Eggs,2024-02,13.0,72.7
+FamilyFood Express,Eggs,2024-04,2.0,9.54
+FamilyFood Express,Eggs,2024-07,4.0,26.63
+FamilyFood Express,Eggs,2024-08,5.0,42.1
+FamilyFood Express,Eggs,2024-10,5.0,89.84
+FamilyFood Express,Eggs,2025-01,1.0,15.11
+FamilyFood Express,Eggs,2025-04,4.0,104.9
+FamilyFood Express,Eggs,2025-05,2.0,12.950000000000000
+FamilyFood Express,Ground Beef,2023-10,2.0,4.93
+FamilyFood Express,Ground Beef,2023-11,2.0,26.14
+FamilyFood Express,Ground Beef,2023-12,3.0,38.85
+FamilyFood Express,Ground Beef,2024-02,5.0,51.87
+FamilyFood Express,Ground Beef,2024-09,1.0,17.08
+FamilyFood Express,Ground Beef,2025-03,2.0,17.58
+FamilyFood Express,Ground Beef,2025-07,1.0,14.23
+FamilyFood Express,Milk,2023-10,4.0,60.81
+FamilyFood Express,Milk,2024-05,4.0,37.06
+FamilyFood Express,Milk,2024-10,2.0,21.23
+FamilyFood Express,Milk,2025-03,2.0,24.74
+FamilyFood Express,Milk,2025-04,4.0,49.36
+FamilyFood Express,Onions,2023-10,3.0,53.93
+FamilyFood Express,Onions,2024-01,3.0,10.3
+FamilyFood Express,Onions,2024-02,5.0,131.8
+FamilyFood Express,Onions,2024-04,1.0,0.88
+FamilyFood Express,Onions,2024-05,5.0,24.730000000000000
+FamilyFood Express,Onions,2024-08,1.0,18.76
+FamilyFood Express,Onions,2024-11,1.0,27.28
+FamilyFood Express,Onions,2025-03,1.0,23.4
+FamilyFood Express,Onions,2025-05,2.0,49.96
+FamilyFood Express,Onions,2025-07,1.0,2.26
+FamilyFood Express,Orange Juice,2023-11,3.0,72.98
+FamilyFood Express,Orange Juice,2024-01,8.0,136.86
+FamilyFood Express,Orange Juice,2024-03,4.0,62.56
+FamilyFood Express,Orange Juice,2024-04,7.0,81.760000000000000
+FamilyFood Express,Orange Juice,2024-05,1.0,7.34
+FamilyFood Express,Orange Juice,2024-06,1.0,2.09
+FamilyFood Express,Orange Juice,2024-11,3.0,20.55
+FamilyFood Express,Orange Juice,2025-01,2.0,47.53
+FamilyFood Express,Orange Juice,2025-02,3.0,29.43
+FamilyFood Express,Orange Juice,2025-03,3.0,45.52
+FamilyFood Express,Orange Juice,2025-04,5.0,38.84
+FamilyFood Express,Orange Juice,2025-07,4.0,9.79
+FamilyFood Express,Pasta,2023-10,4.0,15.02
+FamilyFood Express,Pasta,2024-01,4.0,80.37
+FamilyFood Express,Pasta,2024-05,1.0,14.12
+FamilyFood Express,Pasta,2024-08,2.0,4.15
+FamilyFood Express,Pasta,2024-10,7.0,139.96
+FamilyFood Express,Pasta,2025-06,3.0,53.27
+FamilyFood Express,Potatoes,2023-09,3.0,25.82
+FamilyFood Express,Potatoes,2023-10,10.0,268.16
+FamilyFood Express,Potatoes,2023-11,3.0,4.4
+FamilyFood Express,Potatoes,2023-12,2.0,25.57
+FamilyFood Express,Potatoes,2024-01,4.0,49.0
+FamilyFood Express,Potatoes,2024-02,5.0,98.08
+FamilyFood Express,Potatoes,2024-04,3.0,18.57
+FamilyFood Express,Potatoes,2024-08,2.0,38.09
+FamilyFood Express,Potatoes,2024-09,5.0,45.52
+FamilyFood Express,Potatoes,2024-10,5.0,45.870000000000000
+FamilyFood Express,Potatoes,2025-02,6.0,90.18
+FamilyFood Express,Potatoes,2025-06,3.0,48.62
+FamilyFood Express,Potatoes,2025-07,7.0,63.2
+FamilyFood Express,Rice,2024-04,4.0,27.78
+FamilyFood Express,Rice,2024-05,2.0,42.4
+FamilyFood Express,Rice,2024-06,3.0,73.61
+FamilyFood Express,Rice,2024-07,3.0,79.93
+FamilyFood Express,Rice,2025-01,2.0,12.48
+FamilyFood Express,Rice,2025-04,2.0,21.26
+FamilyFood Express,Rice,2025-07,4.0,19.65
+FamilyFood Express,Salmon,2023-09,1.0,21.95
+FamilyFood Express,Salmon,2023-10,3.0,43.05
+FamilyFood Express,Salmon,2023-11,10.0,213.2
+FamilyFood Express,Salmon,2023-12,2.0,24.38
+FamilyFood Express,Salmon,2024-03,4.0,60.94
+FamilyFood Express,Salmon,2024-04,4.0,87.23
+FamilyFood Express,Salmon,2024-07,5.0,81.67
+FamilyFood Express,Salmon,2024-09,7.0,102.43
+FamilyFood Express,Salmon,2024-10,1.0,1.1
+FamilyFood Express,Tomatoes,2023-09,5.0,47.12
+FamilyFood Express,Tomatoes,2023-10,4.0,44.57
+FamilyFood Express,Tomatoes,2023-11,2.0,8.870000000000000
+FamilyFood Express,Tomatoes,2024-01,3.0,50.46
+FamilyFood Express,Tomatoes,2024-02,4.0,15.27
+FamilyFood Express,Tomatoes,2024-08,3.0,59.4
+FamilyFood Express,Tomatoes,2024-09,3.0,84.42
+FamilyFood Express,Tomatoes,2025-04,2.0,23.68
+FamilyFood Express,Yogurt,2023-08,1.0,23.19
+FamilyFood Express,Yogurt,2023-09,6.0,140.68
+FamilyFood Express,Yogurt,2023-10,9.0,92.78
+FamilyFood Express,Yogurt,2024-03,7.0,53.13
+FamilyFood Express,Yogurt,2024-06,4.0,76.5
+FamilyFood Express,Yogurt,2024-08,7.0,67.93
+FamilyFood Express,Yogurt,2025-02,6.0,64.86
+FamilyFood Express,Yogurt,2025-03,1.0,19.33
+FamilyFood Express,Yogurt,2025-07,4.0,78.04
+FreshMart Downtown,Apples,2023-08,2.0,17.36
+FreshMart Downtown,Apples,2023-09,5.0,136.6
+FreshMart Downtown,Apples,2023-10,5.0,38.31
+FreshMart Downtown,Apples,2024-01,1.0,16.39
+FreshMart Downtown,Apples,2024-02,1.0,13.17
+FreshMart Downtown,Apples,2024-06,4.0,40.21
+FreshMart Downtown,Apples,2024-10,4.0,63.72
+FreshMart Downtown,Apples,2024-11,4.0,110.72
+FreshMart Downtown,Apples,2025-05,3.0,32.26
+FreshMart Downtown,Apples,2025-07,10.0,62.870000000000000
+FreshMart Downtown,Apples,2025-08,3.0,55.0
+FreshMart Downtown,Bananas,2023-08,3.0,59.8
+FreshMart Downtown,Bananas,2023-10,3.0,68.52
+FreshMart Downtown,Bananas,2024-01,5.0,118.28
+FreshMart Downtown,Bananas,2024-02,9.0,171.3
+FreshMart Downtown,Bananas,2024-07,7.0,119.57
+FreshMart Downtown,Bananas,2024-09,3.0,32.48
+FreshMart Downtown,Bananas,2024-11,2.0,35.06
+FreshMart Downtown,Bananas,2024-12,4.0,32.26
+FreshMart Downtown,Bananas,2025-02,1.0,23.73
+FreshMart Downtown,Bananas,2025-04,3.0,38.71
+FreshMart Downtown,Bananas,2025-07,3.0,40.49
+FreshMart Downtown,Bread,2023-11,4.0,19.52
+FreshMart Downtown,Bread,2024-04,3.0,39.53
+FreshMart Downtown,Bread,2024-06,6.0,166.35
+FreshMart Downtown,Bread,2025-02,1.0,20.17
+FreshMart Downtown,Bread,2025-03,4.0,97.09
+FreshMart Downtown,Bread,2025-04,1.0,22.03
+FreshMart Downtown,Carrots,2023-10,4.0,25.510000000000000
+FreshMart Downtown,Carrots,2024-08,1.0,5.37
+FreshMart Downtown,Carrots,2024-10,2.0,19.04
+FreshMart Downtown,Carrots,2025-05,6.0,48.05
+FreshMart Downtown,Carrots,2025-06,2.0,43.28
+FreshMart Downtown,Carrots,2025-07,2.0,32.01
+FreshMart Downtown,Cereal,2023-08,4.0,27.39
+FreshMart Downtown,Cereal,2023-09,4.0,13.72
+FreshMart Downtown,Cereal,2024-02,6.0,75.73000000000000
+FreshMart Downtown,Cereal,2024-04,5.0,15.15
+FreshMart Downtown,Cereal,2024-10,3.0,71.11
+FreshMart Downtown,Cereal,2024-11,3.0,59.32
+FreshMart Downtown,Cereal,2025-05,2.0,53.46
+FreshMart Downtown,Cheese,2023-10,2.0,39.59
+FreshMart Downtown,Cheese,2024-06,4.0,91.28
+FreshMart Downtown,Cheese,2024-09,3.0,69.43
+FreshMart Downtown,Cheese,2024-10,5.0,55.89
+FreshMart Downtown,Cheese,2024-11,5.0,145.17
+FreshMart Downtown,Cheese,2024-12,4.0,17.6
+FreshMart Downtown,Cheese,2025-01,4.0,32.18
+FreshMart Downtown,Cheese,2025-02,1.0,13.3
+FreshMart Downtown,Cheese,2025-03,2.0,44.42
+FreshMart Downtown,Cheese,2025-06,4.0,54.88
+FreshMart Downtown,Cheese,2025-07,1.0,15.63
+FreshMart Downtown,Chicken Breast,2023-08,2.0,42.58
+FreshMart Downtown,Chicken Breast,2023-11,5.0,14.9
+FreshMart Downtown,Chicken Breast,2024-02,1.0,26.47
+FreshMart Downtown,Chicken Breast,2024-04,8.0,71.84
+FreshMart Downtown,Chicken Breast,2024-05,1.0,18.79
+FreshMart Downtown,Chicken Breast,2024-06,5.0,72.14
+FreshMart Downtown,Chicken Breast,2024-07,7.0,59.14
+FreshMart Downtown,Chicken Breast,2024-09,5.0,73.25
+FreshMart Downtown,Chicken Breast,2024-11,5.0,50.12
+FreshMart Downtown,Chicken Breast,2025-05,3.0,61.05
+FreshMart Downtown,Eggs,2023-10,9.0,169.26
+FreshMart Downtown,Eggs,2024-01,3.0,83.64
+FreshMart Downtown,Eggs,2024-07,2.0,4.51
+FreshMart Downtown,Eggs,2024-09,1.0,20.55
+FreshMart Downtown,Eggs,2024-12,6.0,130.96
+FreshMart Downtown,Eggs,2025-04,2.0,17.49
+FreshMart Downtown,Ground Beef,2023-08,2.0,54.8
+FreshMart Downtown,Ground Beef,2023-10,1.0,3.92
+FreshMart Downtown,Ground Beef,2023-11,4.0,44.14
+FreshMart Downtown,Ground Beef,2025-05,9.0,223.04000000000000
+FreshMart Downtown,Ground Beef,2025-07,1.0,26.35
+FreshMart Downtown,Ground Beef,2025-08,2.0,22.56
+FreshMart Downtown,Milk,2023-08,4.0,56.56
+FreshMart Downtown,Milk,2023-09,1.0,6.4
+FreshMart Downtown,Milk,2024-02,5.0,90.4
+FreshMart Downtown,Milk,2024-04,1.0,2.02
+FreshMart Downtown,Milk,2024-05,2.0,58.8
+FreshMart Downtown,Milk,2024-07,5.0,82.13
+FreshMart Downtown,Milk,2024-10,2.0,34.05
+FreshMart Downtown,Milk,2024-11,6.0,42.88
+FreshMart Downtown,Milk,2024-12,2.0,14.84
+FreshMart Downtown,Milk,2025-03,3.0,43.38
+FreshMart Downtown,Milk,2025-04,1.0,26.77
+FreshMart Downtown,Milk,2025-07,2.0,48.89
+FreshMart Downtown,Onions,2023-08,5.0,48.2
+FreshMart Downtown,Onions,2023-11,1.0,-3.43
+FreshMart Downtown,Onions,2023-12,7.0,130.42000000000000
+FreshMart Downtown,Onions,2024-05,2.0,2.01
+FreshMart Downtown,Onions,2024-10,5.0,115.47
+FreshMart Downtown,Onions,2025-03,2.0,50.47
+FreshMart Downtown,Onions,2025-05,4.0,97.26
+FreshMart Downtown,Orange Juice,2023-09,4.0,109.6
+FreshMart Downtown,Orange Juice,2023-10,4.0,28.11
+FreshMart Downtown,Orange Juice,2023-12,5.0,109.69
+FreshMart Downtown,Orange Juice,2024-01,3.0,26.4
+FreshMart Downtown,Orange Juice,2024-03,4.0,69.67
+FreshMart Downtown,Orange Juice,2024-05,5.0,101.75
+FreshMart Downtown,Orange Juice,2024-06,3.0,36.71
+FreshMart Downtown,Orange Juice,2025-01,3.0,79.03
+FreshMart Downtown,Orange Juice,2025-05,7.0,66.66
+FreshMart Downtown,Orange Juice,2025-06,3.0,6.28
+FreshMart Downtown,Orange Juice,2025-07,1.0,16.67
+FreshMart Downtown,Pasta,2023-09,3.0,73.87
+FreshMart Downtown,Pasta,2023-10,1.0,25.47
+FreshMart Downtown,Pasta,2024-03,10.0,143.37
+FreshMart Downtown,Pasta,2024-08,5.0,95.3
+FreshMart Downtown,Pasta,2025-02,4.0,29.63
+FreshMart Downtown,Pasta,2025-07,8.0,138.65
+FreshMart Downtown,Potatoes,2023-09,4.0,53.4
+FreshMart Downtown,Potatoes,2023-10,1.0,13.17
+FreshMart Downtown,Potatoes,2024-01,2.0,30.870000000000000
+FreshMart Downtown,Potatoes,2024-02,2.0,25.9
+FreshMart Downtown,Potatoes,2024-05,3.0,10.25
+FreshMart Downtown,Potatoes,2024-08,2.0,5.68
+FreshMart Downtown,Potatoes,2024-10,5.0,31.07
+FreshMart Downtown,Potatoes,2024-12,3.0,65.710000000000000
+FreshMart Downtown,Potatoes,2025-06,2.0,33.52
+FreshMart Downtown,Potatoes,2025-07,5.0,127.09
+FreshMart Downtown,Rice,2023-09,6.0,98.15
+FreshMart Downtown,Rice,2023-10,1.0,24.48
+FreshMart Downtown,Rice,2024-05,5.0,125.77
+FreshMart Downtown,Rice,2024-08,2.0,25.44
+FreshMart Downtown,Rice,2024-11,3.0,50.95
+FreshMart Downtown,Rice,2025-01,5.0,30.8
+FreshMart Downtown,Rice,2025-05,5.0,88.04
+FreshMart Downtown,Salmon,2023-09,1.0,28.09
+FreshMart Downtown,Salmon,2024-02,4.0,9.36
+FreshMart Downtown,Salmon,2024-03,1.0,22.58
+FreshMart Downtown,Salmon,2024-05,1.0,15.55
+FreshMart Downtown,Salmon,2024-07,1.0,13.77
+FreshMart Downtown,Salmon,2024-10,3.0,17.12
+FreshMart Downtown,Salmon,2025-06,5.0,62.14
+FreshMart Downtown,Tomatoes,2023-12,4.0,42.84
+FreshMart Downtown,Tomatoes,2024-01,1.0,5.92
+FreshMart Downtown,Tomatoes,2024-02,1.0,20.07
+FreshMart Downtown,Tomatoes,2024-07,3.0,71.69
+FreshMart Downtown,Tomatoes,2024-08,3.0,85.61
+FreshMart Downtown,Tomatoes,2024-09,9.0,104.14000000000000
+FreshMart Downtown,Tomatoes,2024-10,5.0,24.23
+FreshMart Downtown,Tomatoes,2025-02,6.0,52.89
+FreshMart Downtown,Yogurt,2023-08,6.0,116.58
+FreshMart Downtown,Yogurt,2023-09,5.0,36.210000000000000
+FreshMart Downtown,Yogurt,2024-01,2.0,42.75
+FreshMart Downtown,Yogurt,2024-02,7.0,140.96
+FreshMart Downtown,Yogurt,2024-04,2.0,35.9
+FreshMart Downtown,Yogurt,2024-08,1.0,22.36
+FreshMart Downtown,Yogurt,2024-09,1.0,23.83
+FreshMart Downtown,Yogurt,2024-10,3.0,10.08
+FreshMart Downtown,Yogurt,2025-03,1.0,17.36
+FreshMart Downtown,Yogurt,2025-04,4.0,35.73
+FreshMart Downtown,Yogurt,2025-05,4.0,49.36
+FreshMart Downtown,Yogurt,2025-07,6.0,103.57
+GreenGrocer Plaza,Apples,2023-11,1.0,15.78
+GreenGrocer Plaza,Apples,2024-02,2.0,14.54
+GreenGrocer Plaza,Apples,2024-05,8.0,141.99
+GreenGrocer Plaza,Apples,2024-10,5.0,109.92
+GreenGrocer Plaza,Apples,2024-11,5.0,99.58
+GreenGrocer Plaza,Apples,2025-02,8.0,99.82
+GreenGrocer Plaza,Apples,2025-04,8.0,86.4
+GreenGrocer Plaza,Apples,2025-05,5.0,71.17
+GreenGrocer Plaza,Bananas,2023-08,3.0,56.02
+GreenGrocer Plaza,Bananas,2023-09,4.0,9.98
+GreenGrocer Plaza,Bananas,2023-11,5.0,140.15
+GreenGrocer Plaza,Bananas,2023-12,5.0,50.4
+GreenGrocer Plaza,Bananas,2024-01,4.0,79.53
+GreenGrocer Plaza,Bananas,2024-02,2.0,21.45
+GreenGrocer Plaza,Bananas,2024-04,5.0,130.0
+GreenGrocer Plaza,Bananas,2024-05,3.0,81.53
+GreenGrocer Plaza,Bananas,2024-11,4.0,90.67
+GreenGrocer Plaza,Bananas,2025-01,1.0,18.89
+GreenGrocer Plaza,Bread,2023-08,5.0,136.19
+GreenGrocer Plaza,Bread,2023-09,1.0,0.88
+GreenGrocer Plaza,Bread,2023-10,7.0,55.14
+GreenGrocer Plaza,Bread,2023-11,2.0,39.78
+GreenGrocer Plaza,Bread,2023-12,3.0,75.61
+GreenGrocer Plaza,Bread,2024-05,4.0,71.66
+GreenGrocer Plaza,Bread,2024-09,5.0,74.35
+GreenGrocer Plaza,Bread,2024-11,1.0,24.51
+GreenGrocer Plaza,Bread,2025-02,5.0,123.37
+GreenGrocer Plaza,Bread,2025-03,2.0,19.19
+GreenGrocer Plaza,Carrots,2023-10,2.0,54.52
+GreenGrocer Plaza,Carrots,2023-12,4.0,113.0
+GreenGrocer Plaza,Carrots,2024-03,2.0,24.23
+GreenGrocer Plaza,Carrots,2024-04,3.0,30.91
+GreenGrocer Plaza,Carrots,2024-05,1.0,22.71
+GreenGrocer Plaza,Carrots,2024-06,1.0,19.33
+GreenGrocer Plaza,Carrots,2024-07,2.0,13.57
+GreenGrocer Plaza,Carrots,2025-02,2.0,55.84
+GreenGrocer Plaza,Carrots,2025-05,4.0,95.92
+GreenGrocer Plaza,Carrots,2025-07,5.0,53.55
+GreenGrocer Plaza,Cereal,2023-10,2.0,47.74
+GreenGrocer Plaza,Cereal,2024-03,2.0,48.71
+GreenGrocer Plaza,Cereal,2024-05,8.0,17.64
+GreenGrocer Plaza,Cereal,2024-07,1.0,8.02
+GreenGrocer Plaza,Cereal,2024-08,8.0,179.73
+GreenGrocer Plaza,Cereal,2024-12,5.0,93.93
+GreenGrocer Plaza,Cereal,2025-01,1.0,5.49
+GreenGrocer Plaza,Cereal,2025-02,2.0,50.78
+GreenGrocer Plaza,Cereal,2025-06,2.0,4.56
+GreenGrocer Plaza,Cereal,2025-07,3.0,23.71
+GreenGrocer Plaza,Cheese,2023-08,4.0,105.88
+GreenGrocer Plaza,Cheese,2023-11,5.0,29.84
+GreenGrocer Plaza,Cheese,2024-01,8.0,21.490000000000000
+GreenGrocer Plaza,Cheese,2024-02,2.0,46.91
+GreenGrocer Plaza,Cheese,2024-03,3.0,16.61
+GreenGrocer Plaza,Cheese,2024-05,1.0,1.41
+GreenGrocer Plaza,Cheese,2024-06,5.0,82.13
+GreenGrocer Plaza,Cheese,2024-07,4.0,48.68
+GreenGrocer Plaza,Cheese,2024-09,1.0,5.08
+GreenGrocer Plaza,Cheese,2024-11,4.0,39.37
+GreenGrocer Plaza,Cheese,2024-12,9.0,71.960000000000000
+GreenGrocer Plaza,Cheese,2025-01,4.0,99.45
+GreenGrocer Plaza,Cheese,2025-05,2.0,2.53
+GreenGrocer Plaza,Chicken Breast,2023-08,9.0,149.4
+GreenGrocer Plaza,Chicken Breast,2023-09,4.0,115.6
+GreenGrocer Plaza,Chicken Breast,2023-10,5.0,24.65
+GreenGrocer Plaza,Chicken Breast,2024-03,4.0,92.27000000000000
+GreenGrocer Plaza,Chicken Breast,2024-05,1.0,12.68
+GreenGrocer Plaza,Chicken Breast,2024-07,6.0,25.21
+GreenGrocer Plaza,Chicken Breast,2024-08,4.0,77.52
+GreenGrocer Plaza,Chicken Breast,2024-10,5.0,105.12
+GreenGrocer Plaza,Chicken Breast,2024-12,4.0,29.38
+GreenGrocer Plaza,Chicken Breast,2025-03,3.0,31.62
+GreenGrocer Plaza,Chicken Breast,2025-04,2.0,24.92
+GreenGrocer Plaza,Eggs,2023-10,2.0,34.2
+GreenGrocer Plaza,Eggs,2023-11,3.0,74.56
+GreenGrocer Plaza,Eggs,2024-07,6.0,160.90000000000000
+GreenGrocer Plaza,Eggs,2024-08,1.0,5.08
+GreenGrocer Plaza,Eggs,2024-09,1.0,13.02
+GreenGrocer Plaza,Eggs,2025-04,1.0,4.55
+GreenGrocer Plaza,Eggs,2025-05,5.0,50.58
+GreenGrocer Plaza,Eggs,2025-07,4.0,100.94
+GreenGrocer Plaza,Ground Beef,2023-08,5.0,126.04
+GreenGrocer Plaza,Ground Beef,2023-10,3.0,86.16
+GreenGrocer Plaza,Ground Beef,2023-11,4.0,67.79
+GreenGrocer Plaza,Ground Beef,2024-08,4.0,90.25
+GreenGrocer Plaza,Ground Beef,2024-09,2.0,4.92
+GreenGrocer Plaza,Ground Beef,2024-10,3.0,16.83
+GreenGrocer Plaza,Ground Beef,2024-11,3.0,25.75
+GreenGrocer Plaza,Ground Beef,2024-12,5.0,97.83
+GreenGrocer Plaza,Ground Beef,2025-03,2.0,53.42
+GreenGrocer Plaza,Ground Beef,2025-05,1.0,14.7
+GreenGrocer Plaza,Ground Beef,2025-06,9.0,123.71000000000000
+GreenGrocer Plaza,Milk,2023-12,3.0,56.35
+GreenGrocer Plaza,Milk,2024-02,2.0,39.41
+GreenGrocer Plaza,Milk,2024-03,2.0,45.12
+GreenGrocer Plaza,Milk,2024-04,5.0,61.07
+GreenGrocer Plaza,Milk,2024-07,4.0,81.24
+GreenGrocer Plaza,Milk,2024-08,4.0,65.44
+GreenGrocer Plaza,Milk,2024-11,2.0,38.69
+GreenGrocer Plaza,Milk,2024-12,4.0,40.79
+GreenGrocer Plaza,Milk,2025-03,4.0,5.38
+GreenGrocer Plaza,Milk,2025-06,5.0,60.11
+GreenGrocer Plaza,Onions,2023-10,3.0,79.35
+GreenGrocer Plaza,Onions,2023-11,3.0,17.52
+GreenGrocer Plaza,Onions,2023-12,2.0,26.8
+GreenGrocer Plaza,Onions,2024-03,7.0,26.15
+GreenGrocer Plaza,Onions,2024-09,7.0,50.460000000000000
+GreenGrocer Plaza,Onions,2024-10,2.0,15.25
+GreenGrocer Plaza,Onions,2024-11,2.0,24.23
+GreenGrocer Plaza,Onions,2024-12,4.0,86.3
+GreenGrocer Plaza,Onions,2025-01,3.0,11.66
+GreenGrocer Plaza,Onions,2025-02,2.0,17.78
+GreenGrocer Plaza,Onions,2025-04,3.0,56.23
+GreenGrocer Plaza,Onions,2025-05,3.0,37.97
+GreenGrocer Plaza,Orange Juice,2023-09,3.0,41.21
+GreenGrocer Plaza,Orange Juice,2023-10,10.0,105.56
+GreenGrocer Plaza,Orange Juice,2024-01,8.0,120.88
+GreenGrocer Plaza,Orange Juice,2024-02,2.0,6.59
+GreenGrocer Plaza,Orange Juice,2024-04,1.0,3.25
+GreenGrocer Plaza,Orange Juice,2024-07,4.0,4.42
+GreenGrocer Plaza,Orange Juice,2024-08,6.0,134.29
+GreenGrocer Plaza,Orange Juice,2024-10,4.0,39.11
+GreenGrocer Plaza,Orange Juice,2024-11,7.0,86.48
+GreenGrocer Plaza,Orange Juice,2024-12,3.0,34.66
+GreenGrocer Plaza,Orange Juice,2025-02,1.0,4.75
+GreenGrocer Plaza,Orange Juice,2025-05,5.0,98.94
+GreenGrocer Plaza,Orange Juice,2025-07,1.0,5.86
+GreenGrocer Plaza,Pasta,2023-08,5.0,71.44
+GreenGrocer Plaza,Pasta,2023-11,5.0,122.85
+GreenGrocer Plaza,Pasta,2024-03,11.0,114.29
+GreenGrocer Plaza,Pasta,2024-06,4.0,99.28
+GreenGrocer Plaza,Pasta,2024-10,1.0,8.54
+GreenGrocer Plaza,Pasta,2025-02,2.0,21.81
+GreenGrocer Plaza,Potatoes,2023-11,2.0,26.73
+GreenGrocer Plaza,Potatoes,2024-01,5.0,91.53
+GreenGrocer Plaza,Potatoes,2024-02,8.0,121.04
+GreenGrocer Plaza,Potatoes,2024-03,1.0,6.43
+GreenGrocer Plaza,Potatoes,2024-05,1.0,8.94
+GreenGrocer Plaza,Potatoes,2024-08,5.0,87.81
+GreenGrocer Plaza,Potatoes,2024-09,8.0,63.310000000000000
+GreenGrocer Plaza,Potatoes,2024-10,5.0,7.08
+GreenGrocer Plaza,Potatoes,2024-11,1.0,10.64
+GreenGrocer Plaza,Potatoes,2025-01,4.0,98.78
+GreenGrocer Plaza,Potatoes,2025-02,1.0,15.22
+GreenGrocer Plaza,Potatoes,2025-03,5.0,26.72
+GreenGrocer Plaza,Potatoes,2025-05,9.0,133.43
+GreenGrocer Plaza,Potatoes,2025-06,2.0,44.81
+GreenGrocer Plaza,Potatoes,2025-07,4.0,111.77
+GreenGrocer Plaza,Rice,2023-09,3.0,23.47
+GreenGrocer Plaza,Rice,2023-11,4.0,38.0
+GreenGrocer Plaza,Rice,2023-12,3.0,38.37
+GreenGrocer Plaza,Rice,2024-02,2.0,43.24
+GreenGrocer Plaza,Rice,2024-11,5.0,89.44
+GreenGrocer Plaza,Rice,2024-12,3.0,19.22
+GreenGrocer Plaza,Rice,2025-04,4.0,117.28
+GreenGrocer Plaza,Rice,2025-06,4.0,84.4
+GreenGrocer Plaza,Salmon,2023-09,5.0,56.48
+GreenGrocer Plaza,Salmon,2023-11,5.0,60.8
+GreenGrocer Plaza,Salmon,2024-01,5.0,80.36
+GreenGrocer Plaza,Salmon,2024-02,1.0,4.36
+GreenGrocer Plaza,Salmon,2024-03,5.0,19.34
+GreenGrocer Plaza,Salmon,2024-04,4.0,51.87
+GreenGrocer Plaza,Salmon,2024-06,2.0,7.66
+GreenGrocer Plaza,Salmon,2025-01,4.0,51.99
+GreenGrocer Plaza,Salmon,2025-04,5.0,23.5
+GreenGrocer Plaza,Salmon,2025-06,7.0,159.91
+GreenGrocer Plaza,Tomatoes,2023-08,2.0,48.13
+GreenGrocer Plaza,Tomatoes,2024-03,4.0,5.8
+GreenGrocer Plaza,Tomatoes,2024-06,2.0,47.47
+GreenGrocer Plaza,Tomatoes,2024-07,2.0,1.85
+GreenGrocer Plaza,Tomatoes,2024-10,4.0,57.11
+GreenGrocer Plaza,Tomatoes,2024-12,1.0,8.04
+GreenGrocer Plaza,Tomatoes,2025-01,2.0,28.03
+GreenGrocer Plaza,Tomatoes,2025-03,4.0,81.24
+GreenGrocer Plaza,Yogurt,2023-11,1.0,7.06
+GreenGrocer Plaza,Yogurt,2024-04,2.0,41.92
+GreenGrocer Plaza,Yogurt,2024-06,3.0,46.35
+GreenGrocer Plaza,Yogurt,2024-08,4.0,100.88
+GreenGrocer Plaza,Yogurt,2024-10,2.0,56.82
+GreenGrocer Plaza,Yogurt,2024-11,9.0,125.18
+GreenGrocer Plaza,Yogurt,2025-07,5.0,20.11
+MegaMart Westside,Apples,2023-10,2.0,54.3
+MegaMart Westside,Apples,2023-11,3.0,82.89
+MegaMart Westside,Apples,2024-01,5.0,57.93
+MegaMart Westside,Apples,2024-05,8.0,146.64
+MegaMart Westside,Apples,2024-07,5.0,51.59
+MegaMart Westside,Apples,2024-09,2.0,47.65
+MegaMart Westside,Apples,2024-10,4.0,74.75
+MegaMart Westside,Apples,2024-11,4.0,107.68
+MegaMart Westside,Apples,2024-12,4.0,51.88
+MegaMart Westside,Apples,2025-03,5.0,146.65
+MegaMart Westside,Apples,2025-06,5.0,85.06
+MegaMart Westside,Apples,2025-07,4.0,99.65
+MegaMart Westside,Bananas,2023-09,3.0,62.74
+MegaMart Westside,Bananas,2024-01,3.0,27.08
+MegaMart Westside,Bananas,2024-04,3.0,67.6
+MegaMart Westside,Bananas,2024-05,5.0,125.8
+MegaMart Westside,Bananas,2024-07,5.0,21.77
+MegaMart Westside,Bananas,2024-11,1.0,7.7
+MegaMart Westside,Bananas,2025-03,3.0,18.03
+MegaMart Westside,Bananas,2025-04,4.0,63.87
+MegaMart Westside,Bananas,2025-07,2.0,24.28
+MegaMart Westside,Bread,2023-11,2.0,48.65
+MegaMart Westside,Bread,2024-02,1.0,25.98
+MegaMart Westside,Bread,2024-03,6.0,104.87
+MegaMart Westside,Bread,2024-04,3.0,8.97
+MegaMart Westside,Bread,2024-06,2.0,22.11
+MegaMart Westside,Bread,2024-07,8.0,62.5
+MegaMart Westside,Bread,2024-10,3.0,37.75
+MegaMart Westside,Bread,2025-02,6.0,110.78
+MegaMart Westside,Bread,2025-04,4.0,96.290000000000000
+MegaMart Westside,Carrots,2023-12,5.0,16.87
+MegaMart Westside,Carrots,2024-03,2.0,5.88
+MegaMart Westside,Carrots,2024-04,5.0,21.96
+MegaMart Westside,Carrots,2024-06,5.0,83.9
+MegaMart Westside,Carrots,2024-07,4.0,51.37
+MegaMart Westside,Carrots,2024-10,1.0,15.82
+MegaMart Westside,Carrots,2025-02,3.0,66.73
+MegaMart Westside,Carrots,2025-07,1.0,10.34
+MegaMart Westside,Cereal,2023-10,3.0,30.03
+MegaMart Westside,Cereal,2024-01,4.0,85.23
+MegaMart Westside,Cereal,2024-03,1.0,21.33
+MegaMart Westside,Cereal,2024-07,8.0,133.14
+MegaMart Westside,Cereal,2024-10,3.0,56.21
+MegaMart Westside,Cereal,2024-11,5.0,73.12
+MegaMart Westside,Cereal,2024-12,7.0,104.99000000000000
+MegaMart Westside,Cereal,2025-02,3.0,74.04
+MegaMart Westside,Cereal,2025-03,2.0,51.55
+MegaMart Westside,Cereal,2025-07,2.0,27.48
+MegaMart Westside,Cheese,2023-08,3.0,29.48
+MegaMart Westside,Cheese,2023-09,1.0,5.1
+MegaMart Westside,Cheese,2024-04,1.0,25.07
+MegaMart Westside,Cheese,2024-06,4.0,46.67
+MegaMart Westside,Cheese,2024-08,3.0,23.57
+MegaMart Westside,Cheese,2025-01,2.0,27.03
+MegaMart Westside,Cheese,2025-04,4.0,29.78
+MegaMart Westside,Cheese,2025-06,3.0,4.57
+MegaMart Westside,Cheese,2025-07,2.0,53.22
+MegaMart Westside,Chicken Breast,2023-08,5.0,102.75
+MegaMart Westside,Chicken Breast,2023-09,2.0,17.93
+MegaMart Westside,Chicken Breast,2023-11,4.0,39.41
+MegaMart Westside,Chicken Breast,2024-03,9.0,27.560000000000000
+MegaMart Westside,Chicken Breast,2024-06,2.0,39.12
+MegaMart Westside,Chicken Breast,2024-10,7.0,61.71
+MegaMart Westside,Chicken Breast,2025-02,5.0,41.160000000000000
+MegaMart Westside,Chicken Breast,2025-05,8.0,124.11000000000000
+MegaMart Westside,Eggs,2023-09,3.0,27.94
+MegaMart Westside,Eggs,2023-10,1.0,9.69
+MegaMart Westside,Eggs,2023-11,1.0,23.49
+MegaMart Westside,Eggs,2024-03,4.0,74.34
+MegaMart Westside,Eggs,2024-08,3.0,64.13
+MegaMart Westside,Eggs,2024-12,4.0,87.4
+MegaMart Westside,Eggs,2025-02,1.0,26.98
+MegaMart Westside,Eggs,2025-03,5.0,140.21
+MegaMart Westside,Eggs,2025-04,4.0,15.46
+MegaMart Westside,Eggs,2025-06,2.0,10.64
+MegaMart Westside,Ground Beef,2023-09,5.0,32.39
+MegaMart Westside,Ground Beef,2023-10,6.0,37.06
+MegaMart Westside,Ground Beef,2023-11,2.0,48.25
+MegaMart Westside,Ground Beef,2023-12,9.0,133.35
+MegaMart Westside,Ground Beef,2024-02,2.0,19.2
+MegaMart Westside,Ground Beef,2024-03,2.0,37.05
+MegaMart Westside,Ground Beef,2024-05,2.0,15.58
+MegaMart Westside,Ground Beef,2024-06,4.0,59.0
+MegaMart Westside,Ground Beef,2024-11,4.0,87.72
+MegaMart Westside,Ground Beef,2024-12,5.0,71.44
+MegaMart Westside,Ground Beef,2025-03,5.0,17.04
+MegaMart Westside,Milk,2023-08,2.0,51.74
+MegaMart Westside,Milk,2023-12,2.0,38.34
+MegaMart Westside,Milk,2024-01,2.0,21.59
+MegaMart Westside,Milk,2024-08,1.0,2.38
+MegaMart Westside,Milk,2024-11,2.0,17.76
+MegaMart Westside,Milk,2025-02,2.0,1.9
+MegaMart Westside,Milk,2025-03,6.0,94.100000000000000
+MegaMart Westside,Onions,2023-09,6.0,63.05
+MegaMart Westside,Onions,2023-11,8.0,83.57
+MegaMart Westside,Onions,2024-01,5.0,53.290000000000000
+MegaMart Westside,Onions,2024-04,5.0,107.14
+MegaMart Westside,Onions,2024-05,2.0,22.87
+MegaMart Westside,Onions,2024-08,7.0,145.81
+MegaMart Westside,Onions,2024-09,1.0,18.0
+MegaMart Westside,Onions,2024-11,1.0,19.81
+MegaMart Westside,Onions,2025-01,9.0,123.59
+MegaMart Westside,Onions,2025-02,2.0,18.52
+MegaMart Westside,Onions,2025-06,2.0,26.06
+MegaMart Westside,Onions,2025-07,3.0,9.23
+MegaMart Westside,Orange Juice,2023-08,4.0,39.88
+MegaMart Westside,Orange Juice,2023-09,5.0,74.6
+MegaMart Westside,Orange Juice,2023-11,3.0,43.38
+MegaMart Westside,Orange Juice,2024-05,5.0,83.0
+MegaMart Westside,Orange Juice,2024-10,8.0,148.75
+MegaMart Westside,Orange Juice,2024-11,3.0,43.12
+MegaMart Westside,Orange Juice,2025-06,5.0,114.5
+MegaMart Westside,Pasta,2023-09,5.0,56.5
+MegaMart Westside,Pasta,2024-01,2.0,16.64
+MegaMart Westside,Pasta,2024-05,4.0,64.35
+MegaMart Westside,Pasta,2024-06,4.0,11.93
+MegaMart Westside,Pasta,2024-07,5.0,26.28
+MegaMart Westside,Pasta,2024-11,6.0,79.67
+MegaMart Westside,Pasta,2025-02,1.0,21.02
+MegaMart Westside,Pasta,2025-04,1.0,2.26
+MegaMart Westside,Pasta,2025-06,2.0,51.93
+MegaMart Westside,Potatoes,2023-08,2.0,14.54
+MegaMart Westside,Potatoes,2023-12,9.0,140.22
+MegaMart Westside,Potatoes,2024-03,3.0,75.71
+MegaMart Westside,Potatoes,2024-05,3.0,57.21
+MegaMart Westside,Potatoes,2024-08,9.0,60.940000000000000
+MegaMart Westside,Potatoes,2024-09,6.0,105.98000000000000
+MegaMart Westside,Potatoes,2024-10,2.0,5.12
+MegaMart Westside,Potatoes,2025-05,3.0,41.92
+MegaMart Westside,Potatoes,2025-07,4.0,44.95
+MegaMart Westside,Potatoes,2025-08,4.0,66.08
+MegaMart Westside,Rice,2023-08,2.0,55.44
+MegaMart Westside,Rice,2024-03,4.0,8.81
+MegaMart Westside,Rice,2024-04,4.0,101.76
+MegaMart Westside,Rice,2024-06,5.0,22.82
+MegaMart Westside,Rice,2024-12,2.0,56.24
+MegaMart Westside,Rice,2025-01,4.0,18.27
+MegaMart Westside,Rice,2025-03,2.0,4.02
+MegaMart Westside,Rice,2025-04,6.0,63.72
+MegaMart Westside,Rice,2025-05,4.0,32.8
+MegaMart Westside,Salmon,2024-01,3.0,18.62
+MegaMart Westside,Salmon,2024-02,1.0,16.24
+MegaMart Westside,Salmon,2024-03,5.0,64.64
+MegaMart Westside,Salmon,2024-07,2.0,23.02
+MegaMart Westside,Salmon,2024-08,5.0,102.12
+MegaMart Westside,Salmon,2024-11,4.0,10.08
+MegaMart Westside,Salmon,2025-01,5.0,78.13
+MegaMart Westside,Salmon,2025-02,4.0,90.09
+MegaMart Westside,Salmon,2025-04,1.0,16.12
+MegaMart Westside,Salmon,2025-07,2.0,31.6
+MegaMart Westside,Tomatoes,2023-09,4.0,71.96
+MegaMart Westside,Tomatoes,2023-10,8.0,66.72
+MegaMart Westside,Tomatoes,2023-11,1.0,15.38
+MegaMart Westside,Tomatoes,2024-02,7.0,96.15
+MegaMart Westside,Tomatoes,2024-03,7.0,110.82000000000000
+MegaMart Westside,Tomatoes,2024-04,4.0,95.06
+MegaMart Westside,Tomatoes,2024-05,2.0,50.74
+MegaMart Westside,Tomatoes,2024-06,10.0,212.36000000000000
+MegaMart Westside,Tomatoes,2024-07,6.0,103.09
+MegaMart Westside,Tomatoes,2024-08,4.0,75.31
+MegaMart Westside,Tomatoes,2024-12,2.0,47.07
+MegaMart Westside,Tomatoes,2025-03,6.0,86.98
+MegaMart Westside,Tomatoes,2025-05,4.0,20.44
+MegaMart Westside,Tomatoes,2025-06,4.0,99.96
+MegaMart Westside,Yogurt,2024-01,5.0,41.3
+MegaMart Westside,Yogurt,2024-03,2.0,20.65
+MegaMart Westside,Yogurt,2024-05,5.0,77.49
+MegaMart Westside,Yogurt,2024-09,3.0,32.76
+MegaMart Westside,Yogurt,2024-11,2.0,38.34
+MegaMart Westside,Yogurt,2024-12,4.0,24.03
+MegaMart Westside,Yogurt,2025-02,5.0,41.04
+MegaMart Westside,Yogurt,2025-06,4.0,34.34
+QuickStop Market,Apples,2023-08,5.0,21.17
+QuickStop Market,Apples,2024-02,1.0,2.78
+QuickStop Market,Apples,2024-03,4.0,56.88
+QuickStop Market,Apples,2024-05,3.0,52.91
+QuickStop Market,Apples,2024-06,4.0,84.56
+QuickStop Market,Apples,2025-01,4.0,9.12
+QuickStop Market,Apples,2025-02,8.0,105.49000000000000
+QuickStop Market,Bananas,2023-09,4.0,17.58
+QuickStop Market,Bananas,2023-10,5.0,89.3
+QuickStop Market,Bananas,2023-11,3.0,29.57
+QuickStop Market,Bananas,2024-03,2.0,11.43
+QuickStop Market,Bananas,2024-05,1.0,22.72
+QuickStop Market,Bananas,2024-08,3.0,47.76
+QuickStop Market,Bananas,2024-09,3.0,56.04
+QuickStop Market,Bananas,2024-10,3.0,71.67
+QuickStop Market,Bananas,2025-01,3.0,50.7
+QuickStop Market,Bananas,2025-06,2.0,36.53
+QuickStop Market,Bananas,2025-07,11.0,192.64
+QuickStop Market,Bread,2023-10,2.0,11.78
+QuickStop Market,Bread,2023-12,1.0,8.76
+QuickStop Market,Bread,2024-01,3.0,57.3
+QuickStop Market,Bread,2024-03,5.0,62.9
+QuickStop Market,Bread,2024-05,12.0,104.65
+QuickStop Market,Bread,2024-06,1.0,21.33
+QuickStop Market,Bread,2024-07,8.0,168.76
+QuickStop Market,Bread,2024-10,2.0,52.25
+QuickStop Market,Bread,2025-02,3.0,71.93
+QuickStop Market,Bread,2025-03,3.0,86.43
+QuickStop Market,Carrots,2023-09,3.0,33.56
+QuickStop Market,Carrots,2023-11,5.0,86.55
+QuickStop Market,Carrots,2023-12,6.0,25.33
+QuickStop Market,Carrots,2024-04,3.0,57.37
+QuickStop Market,Carrots,2024-06,3.0,10.02
+QuickStop Market,Carrots,2025-02,2.0,21.17
+QuickStop Market,Carrots,2025-03,3.0,27.46
+QuickStop Market,Carrots,2025-07,6.0,65.48000000000000
+QuickStop Market,Cereal,2023-10,3.0,22.77
+QuickStop Market,Cereal,2024-01,5.0,66.6
+QuickStop Market,Cereal,2024-04,4.0,52.57
+QuickStop Market,Cereal,2024-06,4.0,63.54
+QuickStop Market,Cereal,2024-08,3.0,54.42
+QuickStop Market,Cereal,2024-10,3.0,34.02
+QuickStop Market,Cereal,2025-03,2.0,38.66
+QuickStop Market,Cereal,2025-04,1.0,24.59
+QuickStop Market,Cereal,2025-06,5.0,73.32
+QuickStop Market,Cheese,2023-09,4.0,16.13
+QuickStop Market,Cheese,2024-01,2.0,11.57
+QuickStop Market,Cheese,2024-02,3.0,79.26
+QuickStop Market,Cheese,2024-05,3.0,73.67
+QuickStop Market,Cheese,2024-07,5.0,66.96
+QuickStop Market,Cheese,2024-09,5.0,117.26
+QuickStop Market,Cheese,2025-01,3.0,59.83
+QuickStop Market,Cheese,2025-02,2.0,1.16
+QuickStop Market,Cheese,2025-04,5.0,106.76000000000000
+QuickStop Market,Chicken Breast,2023-08,5.0,12.11
+QuickStop Market,Chicken Breast,2023-09,5.0,62.8
+QuickStop Market,Chicken Breast,2024-02,4.0,91.39
+QuickStop Market,Chicken Breast,2024-05,1.0,13.36
+QuickStop Market,Chicken Breast,2024-06,1.0,12.33
+QuickStop Market,Chicken Breast,2024-07,4.0,76.77
+QuickStop Market,Chicken Breast,2024-08,2.0,12.72
+QuickStop Market,Chicken Breast,2024-11,5.0,88.92
+QuickStop Market,Chicken Breast,2025-02,2.0,9.44
+QuickStop Market,Chicken Breast,2025-03,3.0,51.76
+QuickStop Market,Eggs,2023-08,6.0,11.230000000000000
+QuickStop Market,Eggs,2023-11,2.0,44.46
+QuickStop Market,Eggs,2023-12,5.0,18.68
+QuickStop Market,Eggs,2024-09,3.0,59.07
+QuickStop Market,Eggs,2024-10,4.0,104.64
+QuickStop Market,Eggs,2024-11,4.0,119.44
+QuickStop Market,Eggs,2024-12,5.0,116.68
+QuickStop Market,Eggs,2025-03,2.0,43.13
+QuickStop Market,Eggs,2025-04,3.0,16.12
+QuickStop Market,Ground Beef,2023-11,1.0,14.65
+QuickStop Market,Ground Beef,2024-04,3.0,39.02
+QuickStop Market,Ground Beef,2024-11,5.0,31.72
+QuickStop Market,Ground Beef,2025-07,3.0,19.14
+QuickStop Market,Milk,2024-02,5.0,4.52
+QuickStop Market,Milk,2024-05,5.0,17.2
+QuickStop Market,Milk,2024-07,4.0,56.17
+QuickStop Market,Milk,2024-09,1.0,8.93
+QuickStop Market,Milk,2024-12,3.0,17.62
+QuickStop Market,Milk,2025-01,1.0,16.25
+QuickStop Market,Milk,2025-02,1.0,15.39
+QuickStop Market,Milk,2025-03,2.0,48.97
+QuickStop Market,Milk,2025-06,5.0,89.010000000000000
+QuickStop Market,Onions,2023-08,2.0,41.96
+QuickStop Market,Onions,2023-09,2.0,4.06
+QuickStop Market,Onions,2023-11,4.0,52.54
+QuickStop Market,Onions,2024-02,1.0,10.14
+QuickStop Market,Onions,2024-04,4.0,23.52
+QuickStop Market,Onions,2024-06,2.0,43.45
+QuickStop Market,Onions,2024-09,3.0,15.72
+QuickStop Market,Onions,2024-10,2.0,33.34
+QuickStop Market,Onions,2024-12,1.0,17.8
+QuickStop Market,Onions,2025-01,5.0,9.99
+QuickStop Market,Onions,2025-02,10.0,46.03
+QuickStop Market,Onions,2025-05,2.0,21.76
+QuickStop Market,Onions,2025-06,2.0,21.6
+QuickStop Market,Orange Juice,2023-10,4.0,40.42
+QuickStop Market,Orange Juice,2024-04,3.0,40.6
+QuickStop Market,Orange Juice,2024-05,4.0,86.66
+QuickStop Market,Orange Juice,2024-07,1.0,22.97
+QuickStop Market,Orange Juice,2024-09,2.0,19.440000000000000
+QuickStop Market,Orange Juice,2025-01,5.0,64.4
+QuickStop Market,Orange Juice,2025-04,2.0,4.98
+QuickStop Market,Orange Juice,2025-05,4.0,4.04
+QuickStop Market,Orange Juice,2025-06,1.0,4.68
+QuickStop Market,Pasta,2023-09,1.0,4.13
+QuickStop Market,Pasta,2023-11,2.0,2.88
+QuickStop Market,Pasta,2024-01,1.0,21.68
+QuickStop Market,Pasta,2024-02,6.0,126.25
+QuickStop Market,Pasta,2024-03,9.0,92.040000000000000
+QuickStop Market,Pasta,2024-09,4.0,114.32
+QuickStop Market,Pasta,2024-11,6.0,61.02
+QuickStop Market,Pasta,2025-01,8.0,73.5
+QuickStop Market,Pasta,2025-03,5.0,118.28
+QuickStop Market,Pasta,2025-04,5.0,67.68
+QuickStop Market,Potatoes,2023-08,5.0,89.82
+QuickStop Market,Potatoes,2023-10,5.0,29.45
+QuickStop Market,Potatoes,2023-12,2.0,16.12
+QuickStop Market,Potatoes,2024-02,2.0,23.7
+QuickStop Market,Potatoes,2024-08,5.0,100.6
+QuickStop Market,Potatoes,2024-09,1.0,10.04
+QuickStop Market,Potatoes,2025-03,3.0,55.59
+QuickStop Market,Potatoes,2025-04,3.0,51.39
+QuickStop Market,Rice,2023-10,6.0,95.740000000000000
+QuickStop Market,Rice,2023-11,4.0,40.29
+QuickStop Market,Rice,2023-12,3.0,75.57
+QuickStop Market,Rice,2024-03,5.0,109.75
+QuickStop Market,Rice,2024-05,2.0,17.51
+QuickStop Market,Rice,2024-06,6.0,82.27
+QuickStop Market,Rice,2024-07,2.0,5.31
+QuickStop Market,Rice,2024-08,5.0,63.52
+QuickStop Market,Rice,2024-11,3.0,79.14
+QuickStop Market,Rice,2024-12,3.0,43.15
+QuickStop Market,Rice,2025-01,1.0,11.03
+QuickStop Market,Rice,2025-02,4.0,18.4
+QuickStop Market,Rice,2025-03,1.0,12.44
+QuickStop Market,Rice,2025-05,7.0,64.08
+QuickStop Market,Rice,2025-07,5.0,63.25
+QuickStop Market,Salmon,2023-08,1.0,3.3
+QuickStop Market,Salmon,2023-12,7.0,65.47
+QuickStop Market,Salmon,2024-01,4.0,98.67
+QuickStop Market,Salmon,2024-08,3.0,18.45
+QuickStop Market,Salmon,2024-09,5.0,101.97
+QuickStop Market,Salmon,2024-10,3.0,54.57
+QuickStop Market,Salmon,2025-01,2.0,29.45
+QuickStop Market,Salmon,2025-04,3.0,52.55
+QuickStop Market,Salmon,2025-05,3.0,20.33
+QuickStop Market,Tomatoes,2023-11,3.0,39.93
+QuickStop Market,Tomatoes,2024-02,3.0,56.23
+QuickStop Market,Tomatoes,2024-03,11.0,148.47
+QuickStop Market,Tomatoes,2024-04,1.0,17.63
+QuickStop Market,Tomatoes,2024-05,5.0,23.59
+QuickStop Market,Tomatoes,2024-09,2.0,24.87
+QuickStop Market,Tomatoes,2024-10,6.0,108.53
+QuickStop Market,Tomatoes,2024-11,5.0,62.56
+QuickStop Market,Tomatoes,2024-12,6.0,71.25
+QuickStop Market,Tomatoes,2025-02,1.0,11.55
+QuickStop Market,Tomatoes,2025-03,4.0,60.800000000000000
+QuickStop Market,Tomatoes,2025-06,2.0,20.75
+QuickStop Market,Tomatoes,2025-07,2.0,31.03
+QuickStop Market,Yogurt,2024-02,3.0,4.08
+QuickStop Market,Yogurt,2024-04,5.0,9.99
+QuickStop Market,Yogurt,2024-05,7.0,57.81
+QuickStop Market,Yogurt,2025-02,1.0,7.78
+QuickStop Market,Yogurt,2025-03,4.0,85.61
+QuickStop Market,Yogurt,2025-04,5.0,87.12
+QuickStop Market,Yogurt,2025-06,6.0,40.44
+QuickStop Market,Yogurt,2025-07,4.0,59.46
+SuperSave Central,Apples,2024-01,6.0,86.1
+SuperSave Central,Apples,2024-03,4.0,8.14
+SuperSave Central,Apples,2024-04,2.0,18.28
+SuperSave Central,Apples,2024-11,5.0,130.46
+SuperSave Central,Apples,2024-12,5.0,23.06
+SuperSave Central,Apples,2025-02,1.0,24.51
+SuperSave Central,Apples,2025-03,5.0,76.58
+SuperSave Central,Apples,2025-06,8.0,122.3
+SuperSave Central,Bananas,2023-10,7.0,26.91
+SuperSave Central,Bananas,2023-12,3.0,7.8
+SuperSave Central,Bananas,2024-02,5.0,74.05
+SuperSave Central,Bananas,2024-03,1.0,15.18
+SuperSave Central,Bananas,2024-05,6.0,110.06
+SuperSave Central,Bananas,2024-07,5.0,78.1
+SuperSave Central,Bananas,2024-09,1.0,4.87
+SuperSave Central,Bananas,2024-12,1.0,3.34
+SuperSave Central,Bananas,2025-02,5.0,90.85
+SuperSave Central,Bread,2023-11,5.0,78.6
+SuperSave Central,Bread,2024-08,1.0,0.08
+SuperSave Central,Bread,2024-10,4.0,20.0
+SuperSave Central,Bread,2024-12,4.0,69.73
+SuperSave Central,Bread,2025-02,5.0,126.51
+SuperSave Central,Bread,2025-03,1.0,5.05
+SuperSave Central,Bread,2025-04,10.0,125.5
+SuperSave Central,Bread,2025-07,2.0,21.95
+SuperSave Central,Bread,2025-08,4.0,91.73
+SuperSave Central,Carrots,2023-10,7.0,128.67000000000000
+SuperSave Central,Carrots,2024-02,3.0,85.15
+SuperSave Central,Carrots,2024-03,3.0,48.63
+SuperSave Central,Carrots,2024-04,7.0,58.42
+SuperSave Central,Carrots,2024-05,5.0,88.47
+SuperSave Central,Carrots,2024-06,5.0,18.28
+SuperSave Central,Carrots,2024-07,2.0,45.12
+SuperSave Central,Carrots,2024-09,4.0,23.59
+SuperSave Central,Carrots,2025-01,1.0,18.52
+SuperSave Central,Carrots,2025-02,5.0,9.83
+SuperSave Central,Carrots,2025-05,5.0,40.8
+SuperSave Central,Carrots,2025-06,5.0,87.04
+SuperSave Central,Cereal,2023-08,1.0,4.81
+SuperSave Central,Cereal,2023-11,5.0,95.14
+SuperSave Central,Cereal,2024-03,4.0,97.4
+SuperSave Central,Cereal,2024-05,4.0,75.88
+SuperSave Central,Cereal,2024-08,4.0,10.62
+SuperSave Central,Cereal,2024-09,1.0,19.52
+SuperSave Central,Cereal,2024-11,6.0,59.490000000000000
+SuperSave Central,Cereal,2025-01,5.0,36.75
+SuperSave Central,Cereal,2025-03,6.0,130.05
+SuperSave Central,Cereal,2025-04,3.0,44.22
+SuperSave Central,Cereal,2025-05,7.0,11.860000000000000
+SuperSave Central,Cheese,2023-10,5.0,20.02
+SuperSave Central,Cheese,2023-12,2.0,22.34
+SuperSave Central,Cheese,2024-02,4.0,104.72
+SuperSave Central,Cheese,2024-08,9.0,147.45
+SuperSave Central,Cheese,2024-10,1.0,15.06
+SuperSave Central,Cheese,2024-11,1.0,22.53
+SuperSave Central,Cheese,2025-02,4.0,25.25
+SuperSave Central,Cheese,2025-05,3.0,13.8
+SuperSave Central,Cheese,2025-06,5.0,17.04
+SuperSave Central,Chicken Breast,2023-08,1.0,14.4
+SuperSave Central,Chicken Breast,2023-09,5.0,133.74
+SuperSave Central,Chicken Breast,2023-11,1.0,21.83
+SuperSave Central,Chicken Breast,2023-12,3.0,30.190000000000000
+SuperSave Central,Chicken Breast,2024-01,11.0,37.730000000000000
+SuperSave Central,Chicken Breast,2024-03,4.0,22.470000000000000
+SuperSave Central,Chicken Breast,2024-07,4.0,6.94
+SuperSave Central,Chicken Breast,2024-09,6.0,72.94
+SuperSave Central,Chicken Breast,2024-10,4.0,64.12
+SuperSave Central,Chicken Breast,2024-11,2.0,23.42
+SuperSave Central,Chicken Breast,2024-12,5.0,102.7
+SuperSave Central,Chicken Breast,2025-01,9.0,162.04000000000000
+SuperSave Central,Chicken Breast,2025-06,3.0,67.54
+SuperSave Central,Chicken Breast,2025-07,2.0,3.35
+SuperSave Central,Eggs,2023-08,2.0,32.3
+SuperSave Central,Eggs,2024-01,3.0,2.76
+SuperSave Central,Eggs,2024-03,10.0,192.74000000000000
+SuperSave Central,Eggs,2024-05,5.0,82.6
+SuperSave Central,Eggs,2024-08,3.0,11.99
+SuperSave Central,Eggs,2024-09,11.0,211.89
+SuperSave Central,Eggs,2024-10,3.0,38.78
+SuperSave Central,Eggs,2025-01,9.0,133.45
+SuperSave Central,Eggs,2025-02,1.0,10.39
+SuperSave Central,Eggs,2025-03,5.0,123.34
+SuperSave Central,Eggs,2025-04,1.0,12.42
+SuperSave Central,Eggs,2025-06,2.0,16.47
+SuperSave Central,Eggs,2025-07,2.0,12.640000000000000
+SuperSave Central,Ground Beef,2023-11,5.0,113.55
+SuperSave Central,Ground Beef,2024-03,5.0,28.64
+SuperSave Central,Ground Beef,2024-04,5.0,85.78
+SuperSave Central,Ground Beef,2024-05,4.0,87.23
+SuperSave Central,Ground Beef,2024-11,4.0,66.27
+SuperSave Central,Ground Beef,2025-04,1.0,10.58
+SuperSave Central,Ground Beef,2025-05,3.0,17.72
+SuperSave Central,Milk,2024-04,5.0,64.4
+SuperSave Central,Milk,2024-05,5.0,101.29000000000000
+SuperSave Central,Milk,2024-06,1.0,7.99
+SuperSave Central,Milk,2024-07,2.0,4.9
+SuperSave Central,Milk,2024-12,4.0,30.33
+SuperSave Central,Milk,2025-03,6.0,108.22
+SuperSave Central,Milk,2025-04,4.0,68.67
+SuperSave Central,Onions,2023-10,3.0,0.51
+SuperSave Central,Onions,2024-01,1.0,14.16
+SuperSave Central,Onions,2024-03,3.0,19.21
+SuperSave Central,Onions,2024-04,8.0,111.15000000000000
+SuperSave Central,Onions,2024-06,1.0,15.89
+SuperSave Central,Onions,2024-07,6.0,71.290000000000000
+SuperSave Central,Onions,2024-09,4.0,77.44
+SuperSave Central,Onions,2024-12,3.0,29.52
+SuperSave Central,Onions,2025-01,3.0,47.55
+SuperSave Central,Onions,2025-02,6.0,111.42
+SuperSave Central,Onions,2025-04,5.0,34.93
+SuperSave Central,Orange Juice,2023-10,9.0,93.420000000000000
+SuperSave Central,Orange Juice,2024-02,1.0,5.28
+SuperSave Central,Orange Juice,2024-11,1.0,21.64
+SuperSave Central,Orange Juice,2025-01,1.0,0.81
+SuperSave Central,Orange Juice,2025-02,3.0,36.69
+SuperSave Central,Orange Juice,2025-03,5.0,113.42
+SuperSave Central,Pasta,2023-10,5.0,62.260000000000000
+SuperSave Central,Pasta,2023-11,1.0,8.97
+SuperSave Central,Pasta,2024-02,3.0,79.65
+SuperSave Central,Pasta,2024-04,2.0,15.66
+SuperSave Central,Pasta,2024-05,2.0,20.05
+SuperSave Central,Pasta,2024-06,3.0,75.91
+SuperSave Central,Pasta,2024-09,4.0,71.55
+SuperSave Central,Pasta,2024-10,3.0,29.43
+SuperSave Central,Pasta,2024-12,4.0,106.44
+SuperSave Central,Pasta,2025-01,2.0,14.96
+SuperSave Central,Pasta,2025-04,5.0,119.43
+SuperSave Central,Pasta,2025-05,5.0,129.16
+SuperSave Central,Pasta,2025-07,3.0,37.32
+SuperSave Central,Potatoes,2023-10,5.0,92.73
+SuperSave Central,Potatoes,2023-11,11.0,193.7
+SuperSave Central,Potatoes,2024-06,3.0,67.45
+SuperSave Central,Potatoes,2024-07,2.0,41.69
+SuperSave Central,Potatoes,2024-10,5.0,73.1
+SuperSave Central,Potatoes,2024-11,3.0,66.31
+SuperSave Central,Potatoes,2024-12,5.0,30.24
+SuperSave Central,Potatoes,2025-02,1.0,19.99
+SuperSave Central,Potatoes,2025-03,1.0,6.87
+SuperSave Central,Potatoes,2025-04,3.0,32.04
+SuperSave Central,Potatoes,2025-05,3.0,73.92
+SuperSave Central,Rice,2023-12,5.0,126.09
+SuperSave Central,Rice,2024-03,6.0,88.1
+SuperSave Central,Rice,2024-04,1.0,6.9
+SuperSave Central,Rice,2024-06,3.0,54.41
+SuperSave Central,Rice,2024-07,3.0,52.65
+SuperSave Central,Rice,2024-09,5.0,73.88
+SuperSave Central,Salmon,2023-10,5.0,134.85
+SuperSave Central,Salmon,2024-02,2.0,24.44
+SuperSave Central,Salmon,2024-04,3.0,65.93
+SuperSave Central,Salmon,2024-06,2.0,1.84
+SuperSave Central,Salmon,2024-07,5.0,11.43
+SuperSave Central,Salmon,2024-09,2.0,15.25
+SuperSave Central,Salmon,2024-10,6.0,81.44
+SuperSave Central,Salmon,2025-01,3.0,38.66
+SuperSave Central,Salmon,2025-03,5.0,87.23000000000000
+SuperSave Central,Tomatoes,2023-10,5.0,145.5
+SuperSave Central,Tomatoes,2024-01,5.0,22.95
+SuperSave Central,Tomatoes,2024-02,9.0,195.66
+SuperSave Central,Tomatoes,2024-04,8.0,113.17
+SuperSave Central,Tomatoes,2024-05,2.0,38.66
+SuperSave Central,Tomatoes,2024-06,2.0,3.56
+SuperSave Central,Tomatoes,2024-08,7.0,158.86
+SuperSave Central,Tomatoes,2024-12,4.0,25.09
+SuperSave Central,Tomatoes,2025-04,5.0,62.32
+SuperSave Central,Tomatoes,2025-06,2.0,42.94
+SuperSave Central,Tomatoes,2025-07,7.0,89.18
+SuperSave Central,Yogurt,2023-10,9.0,70.89
+SuperSave Central,Yogurt,2024-01,2.0,44.62
+SuperSave Central,Yogurt,2024-04,3.0,66.78
+SuperSave Central,Yogurt,2024-06,1.0,6.05
+SuperSave Central,Yogurt,2024-10,4.0,22.57
+SuperSave Central,Yogurt,2025-01,4.0,9.76
+SuperSave Central,Yogurt,2025-03,3.0,47.66
+SuperSave Central,Yogurt,2025-04,3.0,50.45
+ValuePlus Market,Apples,2023-11,1.0,7.64
+ValuePlus Market,Apples,2024-03,1.0,17.73
+ValuePlus Market,Apples,2024-04,2.0,2.14
+ValuePlus Market,Apples,2024-05,2.0,40.53
+ValuePlus Market,Apples,2024-07,4.0,111.33
+ValuePlus Market,Apples,2024-11,1.0,22.82
+ValuePlus Market,Apples,2025-02,4.0,46.53
+ValuePlus Market,Apples,2025-04,9.0,104.59
+ValuePlus Market,Apples,2025-06,2.0,46.94
+ValuePlus Market,Apples,2025-07,2.0,47.63
+ValuePlus Market,Bananas,2023-08,3.0,34.21
+ValuePlus Market,Bananas,2023-12,5.0,44.16
+ValuePlus Market,Bananas,2024-06,1.0,18.59
+ValuePlus Market,Bananas,2024-08,7.0,113.21000000000000
+ValuePlus Market,Bananas,2025-01,1.0,1.34
+ValuePlus Market,Bananas,2025-02,5.0,65.38
+ValuePlus Market,Bananas,2025-03,2.0,58.74
+ValuePlus Market,Bananas,2025-05,2.0,37.370000000000000
+ValuePlus Market,Bananas,2025-06,5.0,74.84
+ValuePlus Market,Bread,2023-09,5.0,6.76
+ValuePlus Market,Bread,2024-04,2.0,46.48
+ValuePlus Market,Bread,2024-05,4.0,52.25
+ValuePlus Market,Bread,2024-06,5.0,29.65
+ValuePlus Market,Bread,2024-07,4.0,5.24
+ValuePlus Market,Bread,2025-01,5.0,67.2
+ValuePlus Market,Bread,2025-03,7.0,101.05000000000000
+ValuePlus Market,Bread,2025-04,5.0,94.8
+ValuePlus Market,Bread,2025-07,4.0,21.08
+ValuePlus Market,Carrots,2023-12,1.0,8.63
+ValuePlus Market,Carrots,2024-01,3.0,6.39
+ValuePlus Market,Carrots,2024-03,8.0,156.19
+ValuePlus Market,Carrots,2024-11,1.0,2.07
+ValuePlus Market,Carrots,2024-12,3.0,10.75
+ValuePlus Market,Carrots,2025-01,2.0,14.76
+ValuePlus Market,Carrots,2025-02,1.0,6.05
+ValuePlus Market,Carrots,2025-03,4.0,74.11
+ValuePlus Market,Carrots,2025-05,9.0,55.26
+ValuePlus Market,Cereal,2023-08,1.0,9.4
+ValuePlus Market,Cereal,2023-10,9.0,48.8
+ValuePlus Market,Cereal,2024-07,3.0,8.7
+ValuePlus Market,Cereal,2024-08,3.0,74.97
+ValuePlus Market,Cereal,2024-10,3.0,62.45
+ValuePlus Market,Cereal,2024-12,1.0,14.83
+ValuePlus Market,Cereal,2025-03,5.0,19.16
+ValuePlus Market,Cereal,2025-08,2.0,40.84
+ValuePlus Market,Cheese,2023-10,10.0,77.01
+ValuePlus Market,Cheese,2023-12,4.0,92.65
+ValuePlus Market,Cheese,2024-02,1.0,-1.56
+ValuePlus Market,Cheese,2024-04,6.0,77.3
+ValuePlus Market,Cheese,2024-05,2.0,55.86
+ValuePlus Market,Cheese,2024-09,4.0,30.53
+ValuePlus Market,Chicken Breast,2023-09,2.0,28.42
+ValuePlus Market,Chicken Breast,2023-12,2.0,25.92
+ValuePlus Market,Chicken Breast,2024-04,4.0,17.53
+ValuePlus Market,Chicken Breast,2024-06,7.0,89.19
+ValuePlus Market,Chicken Breast,2024-10,5.0,93.5
+ValuePlus Market,Chicken Breast,2024-11,1.0,13.55
+ValuePlus Market,Chicken Breast,2024-12,2.0,58.34
+ValuePlus Market,Chicken Breast,2025-01,5.0,107.5
+ValuePlus Market,Chicken Breast,2025-04,4.0,42.93
+ValuePlus Market,Chicken Breast,2025-05,5.0,86.28
+ValuePlus Market,Chicken Breast,2025-07,4.0,53.9
+ValuePlus Market,Eggs,2023-08,3.0,64.41
+ValuePlus Market,Eggs,2023-10,4.0,14.83
+ValuePlus Market,Eggs,2023-11,1.0,9.73
+ValuePlus Market,Eggs,2024-02,5.0,62.86
+ValuePlus Market,Eggs,2024-03,1.0,25.64
+ValuePlus Market,Eggs,2024-05,10.0,238.14
+ValuePlus Market,Eggs,2024-07,1.0,22.82
+ValuePlus Market,Eggs,2024-08,4.0,55.72
+ValuePlus Market,Eggs,2024-09,3.0,45.17
+ValuePlus Market,Eggs,2024-11,4.0,77.12
+ValuePlus Market,Eggs,2025-01,2.0,19.41
+ValuePlus Market,Eggs,2025-03,3.0,11.83
+ValuePlus Market,Eggs,2025-04,4.0,27.86
+ValuePlus Market,Eggs,2025-06,2.0,43.58
+ValuePlus Market,Eggs,2025-07,1.0,7.64
+ValuePlus Market,Ground Beef,2023-09,1.0,20.35
+ValuePlus Market,Ground Beef,2023-11,2.0,8.03
+ValuePlus Market,Ground Beef,2024-03,4.0,79.32
+ValuePlus Market,Ground Beef,2024-05,2.0,15.64
+ValuePlus Market,Ground Beef,2024-08,1.0,16.71
+ValuePlus Market,Ground Beef,2024-10,6.0,86.87
+ValuePlus Market,Ground Beef,2024-11,5.0,13.86
+ValuePlus Market,Ground Beef,2024-12,2.0,17.48
+ValuePlus Market,Ground Beef,2025-05,1.0,8.71
+ValuePlus Market,Ground Beef,2025-06,10.0,113.41000000000000
+ValuePlus Market,Milk,2023-10,2.0,12.65
+ValuePlus Market,Milk,2024-01,9.0,103.7
+ValuePlus Market,Milk,2024-06,1.0,24.56
+ValuePlus Market,Milk,2024-09,1.0,19.13
+ValuePlus Market,Milk,2024-11,6.0,23.91
+ValuePlus Market,Milk,2025-03,6.0,88.12
+ValuePlus Market,Milk,2025-07,9.0,107.69
+ValuePlus Market,Onions,2023-09,3.0,41.9
+ValuePlus Market,Onions,2023-11,4.0,25.48
+ValuePlus Market,Onions,2023-12,4.0,97.24
+ValuePlus Market,Onions,2024-03,6.0,48.56
+ValuePlus Market,Onions,2024-06,1.0,16.93
+ValuePlus Market,Onions,2024-08,3.0,33.84
+ValuePlus Market,Onions,2024-12,3.0,51.91
+ValuePlus Market,Onions,2025-01,3.0,71.43
+ValuePlus Market,Onions,2025-03,1.0,20.72
+ValuePlus Market,Onions,2025-04,1.0,6.86
+ValuePlus Market,Orange Juice,2023-12,5.0,83.98
+ValuePlus Market,Orange Juice,2024-01,3.0,10.96
+ValuePlus Market,Orange Juice,2024-02,4.0,114.2
+ValuePlus Market,Orange Juice,2024-07,5.0,23.88
+ValuePlus Market,Orange Juice,2024-11,3.0,20.13
+ValuePlus Market,Orange Juice,2024-12,2.0,7.78
+ValuePlus Market,Orange Juice,2025-02,1.0,23.78
+ValuePlus Market,Orange Juice,2025-04,9.0,75.33
+ValuePlus Market,Orange Juice,2025-05,4.0,17.47
+ValuePlus Market,Orange Juice,2025-06,2.0,35.15
+ValuePlus Market,Pasta,2023-08,1.0,12.26
+ValuePlus Market,Pasta,2024-01,3.0,4.71
+ValuePlus Market,Pasta,2024-05,2.0,34.7
+ValuePlus Market,Pasta,2024-12,2.0,17.05
+ValuePlus Market,Pasta,2025-01,5.0,141.61
+ValuePlus Market,Pasta,2025-02,7.0,77.930000000000000
+ValuePlus Market,Pasta,2025-06,5.0,75.0
+ValuePlus Market,Potatoes,2023-09,8.0,135.1
+ValuePlus Market,Potatoes,2023-10,1.0,10.1
+ValuePlus Market,Potatoes,2023-11,2.0,49.18
+ValuePlus Market,Potatoes,2024-11,5.0,64.32
+ValuePlus Market,Potatoes,2024-12,4.0,57.35
+ValuePlus Market,Potatoes,2025-01,3.0,65.25
+ValuePlus Market,Potatoes,2025-03,1.0,8.52
+ValuePlus Market,Potatoes,2025-04,2.0,50.55
+ValuePlus Market,Rice,2024-02,5.0,106.98
+ValuePlus Market,Rice,2024-04,5.0,74.6
+ValuePlus Market,Rice,2024-06,7.0,61.92
+ValuePlus Market,Rice,2024-09,1.0,21.53
+ValuePlus Market,Rice,2024-11,2.0,30.48
+ValuePlus Market,Rice,2025-02,1.0,5.82
+ValuePlus Market,Rice,2025-05,4.0,27.51
+ValuePlus Market,Rice,2025-07,3.0,9.29
+ValuePlus Market,Salmon,2023-09,5.0,132.7
+ValuePlus Market,Salmon,2023-10,1.0,12.04
+ValuePlus Market,Salmon,2023-11,5.0,80.32
+ValuePlus Market,Salmon,2023-12,7.0,41.44
+ValuePlus Market,Salmon,2024-03,1.0,22.72
+ValuePlus Market,Salmon,2024-04,4.0,5.13
+ValuePlus Market,Salmon,2024-07,5.0,99.25
+ValuePlus Market,Salmon,2025-01,1.0,7.84
+ValuePlus Market,Salmon,2025-02,1.0,2.8
+ValuePlus Market,Salmon,2025-03,2.0,24.68
+ValuePlus Market,Salmon,2025-04,5.0,21.23
+ValuePlus Market,Salmon,2025-05,5.0,48.62
+ValuePlus Market,Salmon,2025-06,1.0,16.3
+ValuePlus Market,Salmon,2025-07,2.0,38.59
+ValuePlus Market,Tomatoes,2023-08,1.0,13.73
+ValuePlus Market,Tomatoes,2023-09,5.0,77.73
+ValuePlus Market,Tomatoes,2024-04,1.0,11.12
+ValuePlus Market,Tomatoes,2024-05,3.0,58.120000000000000
+ValuePlus Market,Tomatoes,2024-06,1.0,8.87
+ValuePlus Market,Tomatoes,2024-09,5.0,133.8
+ValuePlus Market,Tomatoes,2024-11,5.0,78.56
+ValuePlus Market,Tomatoes,2024-12,2.0,45.63
+ValuePlus Market,Tomatoes,2025-01,4.0,112.16
+ValuePlus Market,Tomatoes,2025-02,4.0,83.61
+ValuePlus Market,Tomatoes,2025-03,9.0,169.77000000000000
+ValuePlus Market,Tomatoes,2025-04,7.0,83.12
+ValuePlus Market,Tomatoes,2025-06,7.0,99.760000000000000
+ValuePlus Market,Yogurt,2023-08,5.0,101.87
+ValuePlus Market,Yogurt,2023-09,8.0,130.15
+ValuePlus Market,Yogurt,2023-12,2.0,36.5
+ValuePlus Market,Yogurt,2024-02,5.0,70.91
+ValuePlus Market,Yogurt,2024-06,1.0,20.89
+ValuePlus Market,Yogurt,2024-08,5.0,80.14
+ValuePlus Market,Yogurt,2024-09,6.0,43.880000000000000
+ValuePlus Market,Yogurt,2024-10,1.0,-0.19
+ValuePlus Market,Yogurt,2025-01,1.0,22.04
+ValuePlus Market,Yogurt,2025-02,5.0,60.05
+ValuePlus Market,Yogurt,2025-03,5.0,95.68
+ValuePlus Market,Yogurt,2025-04,4.0,50.64
+ValuePlus Market,Yogurt,2025-05,5.0,80.41
