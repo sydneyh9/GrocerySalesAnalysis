@@ -1,0 +1,3 @@
+/*This query will rank each product based on how many loyalty points per dollar it receives. This will allow me to observe each product's loyalty reward effectiveness */
+SELECT product_name, total_units_sold, total_revenue, total_points_issued, points_per_dollar, RANK() OVER (ORDER BY points_per_dollar DESC) AS loyalty_reward_rank
+FROM `grocery-store-sales-data.grocery_sales_data.correlation_coefficient`

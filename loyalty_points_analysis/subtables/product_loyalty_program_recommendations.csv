@@ -1,0 +1,163 @@
+product_name,total_units_sold,total_revenue,points_per_dollar,recommendation
+Apples,42.0,639.2,5.9840425531914900,High Sales & High Reward -> Keep or Expand Program
+Apples,51.0,1006.6700000000000,4.1562776282197700,High Sales & High Reward -> Keep or Expand Program
+Apples,42.0,586.6100000000000,4.5174818022195300,High Sales & High Reward -> Keep or Expand Program
+Apples,36.0,489.43000000000000,5.8271867274176100,High Sales & High Reward -> Keep or Expand Program
+Bananas,43.0,740.2,5.3971899486625200,High Sales & High Reward -> Keep or Expand Program
+Bananas,36.0,678.62000000000000,3.4393327635495600,High Sales & High Reward -> Keep or Expand Program
+Bananas,70.0,955.25000000000000,4.3883800052342300,High Sales & High Reward -> Keep or Expand Program
+Bananas,40.0,625.94000000000000,5.7098124420871000,High Sales & High Reward -> Keep or Expand Program
+Bread,56.0,920.94000000000000,3.9416248615545000,High Sales & High Reward -> Keep or Expand Program
+Bread,56.0,706.0100000000000,6.55656435461254,High Sales & High Reward -> Keep or Expand Program
+Bread,41.0,424.51,8.1788414878330300,High Sales & High Reward -> Keep or Expand Program
+Bread,36.0,539.15,4.9782064360567600,High Sales & High Reward -> Keep or Expand Program
+Bread,40.0,646.09000000000000,6.4464703059945200,High Sales & High Reward -> Keep or Expand Program
+Carrots,46.0,540.35,6.1053021189969500,High Sales & High Reward -> Keep or Expand Program
+Carrots,52.0,652.52000000000000,5.3668853061975100,High Sales & High Reward -> Keep or Expand Program
+Cereal,36.0,449.17000000000000,10.56170269608390,High Sales & High Reward -> Keep or Expand Program
+Cereal,59.0,1028.32,3.6817333125875200,High Sales & High Reward -> Keep or Expand Program
+Cereal,38.0,462.5,6.54054054054054,High Sales & High Reward -> Keep or Expand Program
+Cereal,38.0,657.12,4.8423423423423400,High Sales & High Reward -> Keep or Expand Program
+Cereal,46.0,585.74,8.7718100180967700,High Sales & High Reward -> Keep or Expand Program
+Cheese,41.0,457.68000000000000,7.2823807026743600,High Sales & High Reward -> Keep or Expand Program
+Cheese,51.0,762.23,4.32021830681028,High Sales & High Reward -> Keep or Expand Program
+Cheese,52.0,571.34,7.7046942276052800,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,54.0,825.04,5.35731600892078,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,60.0,763.41,5.0628102854298500,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,42.0,490.28,8.27486334339561,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,47.0,688.37000000000000,4.0835597135261600,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,41.0,617.06000000000000,5.344699056817810,High Sales & High Reward -> Keep or Expand Program
+Chicken Breast,42.0,453.75000000000000,7.6187327823691500,High Sales & High Reward -> Keep or Expand Program
+Eggs,55.0,590.74,6.6255882452517200,High Sales & High Reward -> Keep or Expand Program
+Eggs,57.0,881.77000000000000,6.1694092563820500,High Sales & High Reward -> Keep or Expand Program
+Eggs,48.0,726.7600000000000,3.4013979855798300,High Sales & High Reward -> Keep or Expand Program
+Ground Beef,46.0,558.08,5.6210579128440400,High Sales & High Reward -> Keep or Expand Program
+Ground Beef,41.0,707.4,5.7577042691546500,High Sales & High Reward -> Keep or Expand Program
+Ground Beef,39.0,460.2300000000000,7.9438541598765800,High Sales & High Reward -> Keep or Expand Program
+Milk,44.0,576.74,5.2189894926656700,High Sales & High Reward -> Keep or Expand Program
+Milk,44.0,594.28,7.6428619505956800,High Sales & High Reward -> Keep or Expand Program
+Onions,43.0,533.07,8.4191569587483800,High Sales & High Reward -> Keep or Expand Program
+Onions,41.0,449.7,8.75917278185457,High Sales & High Reward -> Keep or Expand Program
+Onions,40.0,341.91,11.75748003860670,High Sales & High Reward -> Keep or Expand Program
+Onions,36.0,577.66,5.5759443271128400,High Sales & High Reward -> Keep or Expand Program
+Onions,51.0,690.94,6.4665528121110400,High Sales & High Reward -> Keep or Expand Program
+Onions,51.0,813.82,5.1301270551227500,High Sales & High Reward -> Keep or Expand Program
+Orange Juice,42.0,650.57000000000000,5.5551285795533200,High Sales & High Reward -> Keep or Expand Program
+Orange Juice,55.0,686.0,6.6516034985422700,High Sales & High Reward -> Keep or Expand Program
+Orange Juice,38.0,412.66000000000000,7.9314690059613200,High Sales & High Reward -> Keep or Expand Program
+Orange Juice,44.0,555.25,7.5011256190905,High Sales & High Reward -> Keep or Expand Program
+Orange Juice,41.0,690.07000000000000,7.1021780399090000,High Sales & High Reward -> Keep or Expand Program
+Pasta,47.0,681.78000000000000,4.5513215406729400,High Sales & High Reward -> Keep or Expand Program
+Pasta,39.0,562.25,5.0778123610493600,High Sales & High Reward -> Keep or Expand Program
+Pasta,42.0,770.79000000000000,5.3438679796053400,High Sales & High Reward -> Keep or Expand Program
+Potatoes,58.0,821.08,5.1432259950309300,High Sales & High Reward -> Keep or Expand Program
+Potatoes,41.0,632.19,6.0978503298059100,High Sales & High Reward -> Keep or Expand Program
+Potatoes,42.0,698.04,4.9037304452466900,High Sales & High Reward -> Keep or Expand Program
+Potatoes,61.0,854.24,5.6471249297621300,High Sales & High Reward -> Keep or Expand Program
+Potatoes,45.0,612.67000000000000,6.6446863727618400,High Sales & High Reward -> Keep or Expand Program
+Rice,37.0,462.1,4.5358147587102400,High Sales & High Reward -> Keep or Expand Program
+Rice,51.0,683.6,6.3019309537741400,High Sales & High Reward -> Keep or Expand Program
+Rice,57.0,781.45000000000000,4.9894427026681200,High Sales & High Reward -> Keep or Expand Program
+Salmon,37.0,635.95,5.5397436905417100,High Sales & High Reward -> Keep or Expand Program
+Salmon,45.0,553.66000000000000,5.6749629736661500,High Sales & High Reward -> Keep or Expand Program
+Salmon,43.0,563.88,5.5242250124139900,High Sales & High Reward -> Keep or Expand Program
+Salmon,43.0,516.2700000000000,3.6047029655025500,High Sales & High Reward -> Keep or Expand Program
+Salmon,53.0,603.04000000000000,8.1039400371451300,High Sales & High Reward -> Keep or Expand Program
+Tomatoes,38.0,365.67000000000000,10.487598107583300,High Sales & High Reward -> Keep or Expand Program
+Tomatoes,56.0,897.8900000000000,4.021650759001660,High Sales & High Reward -> Keep or Expand Program
+Tomatoes,51.0,677.19000000000000,8.3418243033712800,High Sales & High Reward -> Keep or Expand Program
+Tomatoes,54.0,975.98000000000000,4.8218201192647400,High Sales & High Reward -> Keep or Expand Program
+Tomatoes,69.0,1152.04,4.3514114093260700,High Sales & High Reward -> Keep or Expand Program
+Yogurt,53.0,792.97,5.677390065197930,High Sales & High Reward -> Keep or Expand Program
+Yogurt,49.0,564.83,6.7117539790733500,High Sales & High Reward -> Keep or Expand Program
+Yogurt,42.0,634.69,8.42458523058501,High Sales & High Reward -> Keep or Expand Program
+Yogurt,45.0,616.44,7.07124781000584,High Sales & High Reward -> Keep or Expand Program
+Apples,29.0,332.91,6.8997626986272600,High Reward but Low Sales -> Reassess Incentive
+Apples,30.0,499.44,4.8694537882428300,High Reward but Low Sales -> Reassess Incentive
+Apples,32.0,260.65,11.291003261078100,High Reward but Low Sales -> Reassess Incentive
+Apples,32.0,292.85000000000000,10.701724432303200,High Reward but Low Sales -> Reassess Incentive
+Apples,28.0,447.88000000000000,6.6602661427168,High Reward but Low Sales -> Reassess Incentive
+Bananas,34.0,411.16000000000000,5.2899114699873500,High Reward but Low Sales -> Reassess Incentive
+Bananas,21.0,279.08,5.8585351870431400,High Reward but Low Sales -> Reassess Incentive
+Bananas,29.0,418.87,4.0919617064960500,High Reward but Low Sales -> Reassess Incentive
+Bananas,31.0,447.84000000000000,5.2340121471954300,High Reward but Low Sales -> Reassess Incentive
+Bananas,12.0,139.78,6.5960795535842000,High Reward but Low Sales -> Reassess Incentive
+Bread,35.0,517.9,7.63274763467851,High Reward but Low Sales -> Reassess Incentive
+Bread,35.0,620.68000000000000,5.5374750273893100,High Reward but Low Sales -> Reassess Incentive
+Bread,19.0,364.69000000000000,4.76569140914201,High Reward but Low Sales -> Reassess Incentive
+Bread,28.0,324.84000000000000,7.763822189385540,High Reward but Low Sales -> Reassess Incentive
+Carrots,26.0,483.58000000000000,6.8675296745109400,High Reward but Low Sales -> Reassess Incentive
+Carrots,26.0,272.87,7.7546084215927,High Reward but Low Sales -> Reassess Incentive
+Carrots,21.0,339.05,7.6153959592980400,High Reward but Low Sales -> Reassess Incentive
+Carrots,32.0,334.21,7.342688728643670,High Reward but Low Sales -> Reassess Incentive
+Carrots,17.0,173.26,10.406325753203300,High Reward but Low Sales -> Reassess Incentive
+Carrots,19.0,241.51,4.8610823568382300,High Reward but Low Sales -> Reassess Incentive
+Carrots,31.0,326.94,9.6653820272832900,High Reward but Low Sales -> Reassess Incentive
+Cereal,27.0,315.88,8.29745472964417,High Reward but Low Sales -> Reassess Incentive
+Cereal,34.0,480.31,6.9163665132935000,High Reward but Low Sales -> Reassess Incentive
+Cereal,27.0,279.15,7.2684936414114300,High Reward but Low Sales -> Reassess Incentive
+Cereal,30.0,430.49000000000000,6.8573021440683900,High Reward but Low Sales -> Reassess Incentive
+Cheese,23.0,244.49,10.159924741298200,High Reward but Low Sales -> Reassess Incentive
+Cheese,34.0,388.21,7.1172818835166500,High Reward but Low Sales -> Reassess Incentive
+Cheese,32.0,532.60000000000000,5.6064588809613200,High Reward but Low Sales -> Reassess Incentive
+Cheese,27.0,331.79,6.2087464962777700,High Reward but Low Sales -> Reassess Incentive
+Cheese,25.0,300.70000000000000,6.8606584635849700,High Reward but Low Sales -> Reassess Incentive
+Cheese,35.0,579.37,5.754526468405340,High Reward but Low Sales -> Reassess Incentive
+Chicken Breast,27.0,321.4200000000000,9.5264762615892,High Reward but Low Sales -> Reassess Incentive
+Chicken Breast,32.0,547.86,6.7097433650932700,High Reward but Low Sales -> Reassess Incentive
+Chicken Breast,32.0,431.6,4.8030583873957400,High Reward but Low Sales -> Reassess Incentive
+Eggs,31.0,435.2,5.8340992647058800,High Reward but Low Sales -> Reassess Incentive
+Eggs,23.0,426.41000000000000,3.9891184540700300,High Reward but Low Sales -> Reassess Incentive
+Eggs,34.0,307.15,10.125345922187900,High Reward but Low Sales -> Reassess Incentive
+Eggs,28.0,480.28000000000000,5.6029815940701300,High Reward but Low Sales -> Reassess Incentive
+Eggs,23.0,443.83000000000000,4.893765630984840,High Reward but Low Sales -> Reassess Incentive
+Eggs,34.0,533.45,8.332552254194400,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,23.0,489.35000000000000,3.4801266986819200,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,16.0,170.68000000000000,10.165221467072900,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,27.0,409.77000000000000,2.9406740366547100,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,12.0,104.53,11.346025064574800,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,34.0,380.38000000000000,6.7090803932909200,High Reward but Low Sales -> Reassess Incentive
+Ground Beef,19.0,374.81,6.0937541687788500,High Reward but Low Sales -> Reassess Incentive
+Milk,34.0,507.12000000000000,8.1045906294368200,High Reward but Low Sales -> Reassess Incentive
+Milk,27.0,274.06,10.008757206451100,High Reward but Low Sales -> Reassess Incentive
+Milk,34.0,379.76000000000000,7.3888771855909000,High Reward but Low Sales -> Reassess Incentive
+Milk,35.0,493.6,4.3942463533225300,High Reward but Low Sales -> Reassess Incentive
+Milk,17.0,227.81,12.211930995127500,High Reward but Low Sales -> Reassess Incentive
+Milk,16.0,193.2,9.6376811594202900,High Reward but Low Sales -> Reassess Incentive
+Milk,27.0,385.8,7.5453602903058600,High Reward but Low Sales -> Reassess Incentive
+Onions,29.0,414.87,6.3007689155639100,High Reward but Low Sales -> Reassess Incentive
+Onions,26.0,440.4,5.7697547683923700,High Reward but Low Sales -> Reassess Incentive
+Onions,23.0,343.30000000000000,11.896300611709900,High Reward but Low Sales -> Reassess Incentive
+Orange Juice,26.0,288.19,8.9732468163364500,High Reward but Low Sales -> Reassess Incentive
+Orange Juice,26.0,408.13000000000000,6.77480214637493,High Reward but Low Sales -> Reassess Incentive
+Orange Juice,33.0,547.23,3.0298046525227100,High Reward but Low Sales -> Reassess Incentive
+Orange Juice,20.0,271.26,7.2882105728821100,High Reward but Low Sales -> Reassess Incentive
+Pasta,21.0,306.89,6.7157613477141600,High Reward but Low Sales -> Reassess Incentive
+Pasta,25.0,363.26,5.3019875571216200,High Reward but Low Sales -> Reassess Incentive
+Pasta,33.0,513.72000000000000,5.4115082145916100,High Reward but Low Sales -> Reassess Incentive
+Pasta,28.0,438.21000000000000,5.3581616120125000,High Reward but Low Sales -> Reassess Incentive
+Pasta,30.0,330.58,8.3277875249561400,High Reward but Low Sales -> Reassess Incentive
+Pasta,31.0,506.29,3.8554978372079200,High Reward but Low Sales -> Reassess Incentive
+Potatoes,29.0,396.66000000000000,6.0429587051883200,High Reward but Low Sales -> Reassess Incentive
+Potatoes,26.0,440.37000000000000,5.050298612530370,High Reward but Low Sales -> Reassess Incentive
+Potatoes,26.0,376.71,5.2427596825144000,High Reward but Low Sales -> Reassess Incentive
+Potatoes,25.0,474.29000000000000,5.8487423306415900,High Reward but Low Sales -> Reassess Incentive
+Rice,33.0,363.88,9.2612949323952900,High Reward but Low Sales -> Reassess Incentive
+Rice,27.0,443.63,4.5465816108017900,High Reward but Low Sales -> Reassess Incentive
+Rice,23.0,402.03,6.8626719399049800,High Reward but Low Sales -> Reassess Incentive
+Rice,28.0,453.42000000000000,5.5445282519518300,High Reward but Low Sales -> Reassess Incentive
+Rice,28.0,338.13,5.6043533552184100,High Reward but Low Sales -> Reassess Incentive
+Rice,20.0,277.11,6.6724405470751700,High Reward but Low Sales -> Reassess Incentive
+Salmon,16.0,168.61,8.45145602277445,High Reward but Low Sales -> Reassess Incentive
+Salmon,33.0,461.07000000000000,5.1467239247836600,High Reward but Low Sales -> Reassess Incentive
+Salmon,32.0,450.66000000000000,7.8085474637198800,High Reward but Low Sales -> Reassess Incentive
+Salmon,31.0,444.76,6.5495997841532500,High Reward but Low Sales -> Reassess Incentive
+Tomatoes,21.0,277.67,10.278388014549600,High Reward but Low Sales -> Reassess Incentive
+Tomatoes,19.0,294.09,6.5184127307967000,High Reward but Low Sales -> Reassess Incentive
+Tomatoes,26.0,333.79000000000000,6.69283082177417,High Reward but Low Sales -> Reassess Incentive
+Tomatoes,32.0,407.39000000000000,6.9859348535801100,High Reward but Low Sales -> Reassess Incentive
+Yogurt,29.0,318.78,7.8235773887947800,High Reward but Low Sales -> Reassess Incentive
+Yogurt,30.0,309.95000000000000,5.6912405226649400,High Reward but Low Sales -> Reassess Incentive
+Yogurt,26.0,398.32000000000000,5.8319943763808000,High Reward but Low Sales -> Reassess Incentive
+Yogurt,35.0,352.29,5.8020380936160500,High Reward but Low Sales -> Reassess Incentive
+Yogurt,17.0,222.30000000000000,10.3778677462888,High Reward but Low Sales -> Reassess Incentive
