@@ -1,0 +1,163 @@
+store_name,product_name,rankings_class,sales_rank
+Corner Grocery,Rice,Fast-moving,1.0
+MegaMart Westside,Orange Juice,Fast-moving,0.99378881987577600
+GreenGrocer Plaza,Salmon,Fast-moving,0.98757763975155300
+FreshMart Downtown,Pasta,Fast-moving,0.98136645962732900
+FamilyFood Express,Carrots,Fast-moving,0.97515527950310600
+City Fresh Store,Yogurt,Fast-moving,0.968944099378882
+MegaMart Westside,Yogurt,Fast-moving,0.96273291925465800
+ValuePlus Market,Bread,Fast-moving,0.95652173913043500
+FamilyFood Express,Cheese,Fast-moving,0.9503105590062110
+Corner Grocery,Bananas,Fast-moving,0.94409937888198800
+City Fresh Store,Milk,Fast-moving,0.937888198757764
+MegaMart Westside,Apples,Fast-moving,0.93167701863354000
+QuickStop Market,Apples,Fast-moving,0.92546583850931700
+GreenGrocer Plaza,Bananas,Fast-moving,0.91304347826087000
+SuperSave Central,Bread,Fast-moving,0.91304347826087000
+MegaMart Westside,Ground Beef,Fast-moving,0.906832298136646
+GreenGrocer Plaza,Rice,Fast-moving,0.88198757763975200
+QuickStop Market,Yogurt,Fast-moving,0.88198757763975200
+MegaMart Westside,Chicken Breast,Fast-moving,0.88198757763975200
+SuperSave Central,Tomatoes,Fast-moving,0.88198757763975200
+City Fresh Store,Cereal,Fast-moving,0.87577639751552800
+SuperSave Central,Carrots,Fast-moving,0.86956521739130400
+MegaMart Westside,Potatoes,Fast-moving,0.86335403726708100
+ValuePlus Market,Orange Juice,Fast-moving,0.8571428571428570
+Corner Grocery,Yogurt,Fast-moving,0.85093167701863400
+Corner Grocery,Cheese,Fast-moving,0.84472049689441
+GreenGrocer Plaza,Potatoes,Fast-moving,0.83850931677018600
+FreshMart Downtown,Rice,Fast-moving,0.83229813664596300
+QuickStop Market,Pasta,Fast-moving,0.82608695652173900
+QuickStop Market,Cereal,Fast-moving,0.81987577639751600
+City Fresh Store,Salmon,Fast-moving,0.81366459627329200
+MegaMart Westside,Rice,Fast-moving,0.80745341614906800
+Corner Grocery,Ground Beef,Fast-moving,0.80124223602484500
+GreenGrocer Plaza,Yogurt,Medium-moving,0.77639751552795000
+QuickStop Market,Potatoes,Medium-moving,0.77639751552795000
+City Fresh Store,Pasta,Medium-moving,0.77639751552795000
+GreenGrocer Plaza,Cheese,Medium-moving,0.77639751552795000
+FreshMart Downtown,Chicken Breast,Medium-moving,0.77018633540372700
+FreshMart Downtown,Apples,Medium-moving,0.75776397515527900
+FreshMart Downtown,Orange Juice,Medium-moving,0.75776397515527900
+MegaMart Westside,Bananas,Medium-moving,0.73913043478260900
+SuperSave Central,Yogurt,Medium-moving,0.73913043478260900
+FamilyFood Express,Potatoes,Medium-moving,0.73913043478260900
+FamilyFood Express,Yogurt,Medium-moving,0.73291925465838500
+City Fresh Store,Apples,Medium-moving,0.70186335403726700
+FreshMart Downtown,Tomatoes,Medium-moving,0.70186335403726700
+MegaMart Westside,Salmon,Medium-moving,0.70186335403726700
+QuickStop Market,Chicken Breast,Medium-moving,0.70186335403726700
+QuickStop Market,Cheese,Medium-moving,0.70186335403726700
+City Fresh Store,Rice,Medium-moving,0.69565217391304300
+FreshMart Downtown,Cheese,Medium-moving,0.68944099378882000
+Corner Grocery,Carrots,Medium-moving,0.6645962732919260
+Corner Grocery,Cereal,Medium-moving,0.6645962732919260
+MegaMart Westside,Cereal,Medium-moving,0.6645962732919260
+SuperSave Central,Eggs,Medium-moving,0.6645962732919260
+GreenGrocer Plaza,Ground Beef,Medium-moving,0.65838509316770200
+FamilyFood Express,Orange Juice,Medium-moving,0.65217391304347800
+MegaMart Westside,Tomatoes,Medium-moving,0.64596273291925500
+GreenGrocer Plaza,Chicken Breast,Medium-moving,0.639751552795031
+ValuePlus Market,Pasta,Medium-moving,0.63354037267080700
+City Fresh Store,Bread,Medium-moving,0.62732919254658400
+GreenGrocer Plaza,Pasta,Medium-moving,0.6211180124223600
+City Fresh Store,Eggs,Medium-moving,0.60869565217391300
+QuickStop Market,Carrots,Medium-moving,0.60869565217391300
+Corner Grocery,Eggs,Medium-moving,0.58385093167701900
+QuickStop Market,Eggs,Medium-moving,0.58385093167701900
+SuperSave Central,Bananas,Medium-moving,0.58385093167701900
+SuperSave Central,Cheese,Medium-moving,0.58385093167701900
+Corner Grocery,Salmon,Medium-moving,0.5714285714285710
+FreshMart Downtown,Bananas,Medium-moving,0.5714285714285710
+FamilyFood Express,Eggs,Medium-moving,0.55900621118012400
+GreenGrocer Plaza,Orange Juice,Medium-moving,0.55900621118012400
+FamilyFood Express,Bananas,Medium-moving,0.49068322981366500
+QuickStop Market,Ground Beef,Medium-moving,0.49068322981366500
+FreshMart Downtown,Cereal,Medium-moving,0.49068322981366500
+SuperSave Central,Ground Beef,Medium-moving,0.49068322981366500
+ValuePlus Market,Cereal,Medium-moving,0.49068322981366500
+Corner Grocery,Apples,Medium-moving,0.49068322981366500
+MegaMart Westside,Pasta,Medium-moving,0.49068322981366500
+SuperSave Central,Salmon,Medium-moving,0.49068322981366500
+SuperSave Central,Apples,Medium-moving,0.49068322981366500
+ValuePlus Market,Salmon,Medium-moving,0.49068322981366500
+QuickStop Market,Tomatoes,Medium-moving,0.49068322981366500
+GreenGrocer Plaza,Apples,Medium-moving,0.453416149068323
+Corner Grocery,Onions,Medium-moving,0.453416149068323
+MegaMart Westside,Onions,Medium-moving,0.453416149068323
+Corner Grocery,Chicken Breast,Medium-moving,0.453416149068323
+ValuePlus Market,Tomatoes,Medium-moving,0.453416149068323
+QuickStop Market,Rice,Medium-moving,0.453416149068323
+FamilyFood Express,Bread,Medium-moving,0.44720496894409900
+ValuePlus Market,Yogurt,Medium-moving,0.44099378881987600
+GreenGrocer Plaza,Bread,Medium-moving,0.42857142857142900
+GreenGrocer Plaza,Milk,Medium-moving,0.42857142857142900
+FamilyFood Express,Apples,Medium-moving,0.41614906832298100
+ValuePlus Market,Carrots,Medium-moving,0.41614906832298100
+FreshMart Downtown,Onions,Medium-moving,0.39751552795031100
+MegaMart Westside,Carrots,Medium-moving,0.39751552795031100
+ValuePlus Market,Potatoes,Medium-moving,0.39751552795031100
+FreshMart Downtown,Eggs,Medium-moving,0.37888198757764000
+SuperSave Central,Rice,Medium-moving,0.37888198757764000
+SuperSave Central,Cereal,Medium-moving,0.37888198757764000
+QuickStop Market,Bread,Medium-moving,0.36024844720496900
+QuickStop Market,Onions,Medium-moving,0.36024844720496900
+SuperSave Central,Chicken Breast,Medium-moving,0.36024844720496900
+QuickStop Market,Bananas,Medium-moving,0.35403726708074500
+GreenGrocer Plaza,Cereal,Medium-moving,0.33540372670807500
+ValuePlus Market,Ground Beef,Medium-moving,0.33540372670807500
+ValuePlus Market,Milk,Medium-moving,0.33540372670807500
+ValuePlus Market,Eggs,Medium-moving,0.32919254658385100
+Corner Grocery,Bread,Medium-moving,0.3105590062111800
+ValuePlus Market,Rice,Medium-moving,0.3105590062111800
+SuperSave Central,Potatoes,Medium-moving,0.3105590062111800
+SuperSave Central,Pasta,Medium-moving,0.30434782608695700
+City Fresh Store,Cheese,Medium-moving,0.29192546583850900
+Corner Grocery,Potatoes,Medium-moving,0.29192546583850900
+FamilyFood Express,Cereal,Medium-moving,0.2857142857142860
+Corner Grocery,Pasta,Medium-moving,0.27950310559006200
+Corner Grocery,Milk,Medium-moving,0.27329192546583900
+GreenGrocer Plaza,Onions,Medium-moving,0.26708074534161500
+City Fresh Store,Orange Juice,Medium-moving,0.2484472049689440
+City Fresh Store,Potatoes,Medium-moving,0.2484472049689440
+ValuePlus Market,Chicken Breast,Medium-moving,0.2484472049689440
+FreshMart Downtown,Bread,Medium-moving,0.24223602484472100
+SuperSave Central,Milk,Medium-moving,0.2360248447204970
+SuperSave Central,Onions,Medium-moving,0.22981366459627300
+FamilyFood Express,Milk,Medium-moving,0.2236024844720500
+FamilyFood Express,Salmon,Medium-moving,0.21739130434782600
+ValuePlus Market,Onions,Medium-moving,0.21118012422360200
+City Fresh Store,Bananas,Slow-moving,0.18633540372670800
+FamilyFood Express,Pasta,Slow-moving,0.18633540372670800
+GreenGrocer Plaza,Tomatoes,Slow-moving,0.18633540372670800
+FreshMart Downtown,Yogurt,Slow-moving,0.18633540372670800
+FamilyFood Express,Tomatoes,Slow-moving,0.16770186335403700
+QuickStop Market,Orange Juice,Slow-moving,0.16770186335403700
+City Fresh Store,Ground Beef,Slow-moving,0.16770186335403700
+QuickStop Market,Salmon,Slow-moving,0.15527950310559000
+ValuePlus Market,Bananas,Slow-moving,0.15527950310559000
+City Fresh Store,Onions,Slow-moving,0.14906832298136600
+GreenGrocer Plaza,Eggs,Slow-moving,0.14285714285714300
+MegaMart Westside,Eggs,Slow-moving,0.13043478260869600
+ValuePlus Market,Apples,Slow-moving,0.13043478260869600
+FamilyFood Express,Rice,Slow-moving,0.11801242236024800
+SuperSave Central,Orange Juice,Slow-moving,0.11801242236024800
+QuickStop Market,Milk,Slow-moving,0.10559006211180100
+ValuePlus Market,Cheese,Slow-moving,0.10559006211180100
+Corner Grocery,Tomatoes,Slow-moving,0.099378881987577600
+City Fresh Store,Tomatoes,Slow-moving,0.086956521739130400
+FreshMart Downtown,Ground Beef,Slow-moving,0.086956521739130400
+Corner Grocery,Orange Juice,Slow-moving,0.074534161490683200
+GreenGrocer Plaza,Carrots,Slow-moving,0.074534161490683200
+MegaMart Westside,Cheese,Slow-moving,0.068322981366459600
+FamilyFood Express,Ground Beef,Slow-moving,0.049689440993788800
+FreshMart Downtown,Salmon,Slow-moving,0.049689440993788800
+City Fresh Store,Chicken Breast,Slow-moving,0.049689440993788800
+FreshMart Downtown,Milk,Slow-moving,0.043478260869565200
+FamilyFood Express,Chicken Breast,Slow-moving,0.037267080745341600
+FreshMart Downtown,Potatoes,Slow-moving,0.031055900621118000
+MegaMart Westside,Bread,Slow-moving,0.024844720496894400
+FreshMart Downtown,Carrots,Slow-moving,0.018633540372670800
+City Fresh Store,Carrots,Slow-moving,0.012422360248447200
+FamilyFood Express,Onions,Slow-moving,0.0062111801242236000
+MegaMart Westside,Milk,Slow-moving,0.0
